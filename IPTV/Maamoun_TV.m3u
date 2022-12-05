@@ -83,8 +83,12 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_720p_chunks.m3u8
 #EXTINF:-1 group-title="LOW",AlArabiya_Alhadath_360
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 
+#EXTINF:-1 group-title="HD",Syria_SAT_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4264747343478
 #EXTINF:-1 group-title="LOW",Syria_Sat_360
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 group-title="HD",Syria_Drama_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4437577506422
 #EXTINF:-1 group-title="SD",Syria_Drama_576
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14177
 #EXTINF:-1 group-title="LOW",Syria_Drama_360
@@ -367,11 +371,11 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="SD",ZEE_ALWAN_360
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="HD",Weyyak_Drama_
+#EXTINF:-1 group-title="HD",Weyyak_Drama_720
 https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Weyyak_Drama_
+#EXTINF:-1 group-title="SD",Weyyak_Drama_480
 https://weyyak-live.akamaized.net/weyyak_drama/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Weyyak_Drama_
+#EXTINF:-1 group-title="LOW",Weyyak_Drama_360
 https://weyyak-live.akamaized.net/weyyak_drama/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="HD",Weyyak_Action_720
