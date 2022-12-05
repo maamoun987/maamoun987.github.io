@@ -55,6 +55,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 group-title="LOW",BBC_Per_420
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 
+#EXTINF:-1 group-title="HD",AlMayadeen_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LsYZwXhN04Q
 #EXTINF:-1 group-title="SD",AlMayadeen_540
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 #EXTINF:-1 group-title="LOW",AlMayadeen_480
@@ -93,8 +95,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4437577506
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14177
 #EXTINF:-1 group-title="LOW",Syria_Drama_360
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 group-title="HD",Syria_News_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2404815871606
 #EXTINF:-1 group-title="LOW",Syria_News_360
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 group-title="HD",ShamFM+_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/1366568541799
+#EXTINF:-1 group-title="HD",SYR_Ugarit_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2231907917430
 
 #EXTINF:-1 group-title="HD",Lana_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
@@ -335,6 +343,9 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/09a2d4d3e01adfb90635502287
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/3678016328ce91b5a3663e3c6f0899d2.m3u8
 #EXTINF:-1 group-title="LOW",Rotana_Music_360
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/edbbaaf10335358d39fe362a85849263.m3u8
+
+#EXTINF:-1 group-title="HD",Rotana_Clip_JUSTWindows
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-clip/
 
 #EXTINF:-1 group-title="FHD",LBC_Int_1080
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
