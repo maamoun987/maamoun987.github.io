@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
+http://ninarfm.grtvstream.com:8896/stream
+#EXTINF:-1 group-title="Syrian_Radio",Sham-FM
+http://radioshamfm.grtvstream.com:8400/;stream.nsv
+#EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
+https://stream.almadinafm.com/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
+http://188.247.86.67:8004/stream/3/
+#EXTINF:-1 group-title="Syrian_Radio",Madoradio
+http://193.108.118.145:8020/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Melody-FM
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
+https://radio.farah.fm/?type=http
+#EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
+http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+#EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
+http://radioliveb.rtv.gov.sy:8008/RadioSouryana
+#EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
+http://radioliveb.rtv.gov.sy:8002/RadioShabab
+#EXTINF:-1 group-title="Syrian_Radio",Sada-FM
+http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
+https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_17532_stream_726858015
+#EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
+http://swaida.com:9996/
+#EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
+http://192.99.17.12:4986/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
+http://radioliveb.rtv.gov.sy:8002/RadioCham
+#EXTINF:-1 group-title="Syrian_Radio",AmwajFm
+http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Zenobia-FM
+http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Tartous-FM
+http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",AlKarma-FM
+http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Mix_FM
+https://stream.mixfmsyria.net/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Version_FM
+http://162.0.230.103:8000/
+
+
+#EXTINF:-1 group-title="News_Radio",AlJazeera
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA-b/01.m3u8
+#EXTINF:-1 group-title="News_Radio",BBC_AR
+https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
+#EXTINF:-1 group-title="News_Radio",Montecarlo
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+
+#EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_1
+https://server03.quran.com.kw:7036/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_2
+http://quraan.us:9776/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Fares_Abbad
+https://server03.quran.com.kw:7033/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Jazza Al-Suweilih
+http://server2.quraan.us:9780/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Affasy
+https://server03.quran.com.kw:10998/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Qtami
+http://quraan.us:9886/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Ash-Shatiri
+http://quraan.us:9892/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Mmuaiqly
+https://server03.quran.com.kw:7005/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Dosari
+http://quraan.us:9884/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ghamidi
+https://server03.quran.com.kw:7011/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Yamani
+http://quraan.us:9784/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Idris-Abkar
+http://quraan.us:9300/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ajmi
+http://quraan.us:9852/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Husari
+https://server03.quran.com.kw:7007/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
+https://server03.quran.com.kw:7000/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
+http://quraan.us:9888/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
+http://quraan.us:9310/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
+http://quraan.us:9312/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
+http://quraan.us:9314/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
+http://quraan.us:9316/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
+http://quraan.us:9986/;*.mp3
+
+
+
+#EXTINF:-1 group-title="German_Radio",1LIVE
+https://wdrhf.akamaized.net/hls/live/2027955/1live/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",1LIVE_DIGGI
+https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",WDR_2
+https://wdrhf.akamaized.net/hls/live/2027966/wdr2rheinland/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",WDR_3
+https://wdrhf.akamaized.net/hls/live/2027994/wdr3/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",WDR_4
+https://wdrhf.akamaized.net/hls/live/2027995/wdr4/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",WDR_5
+https://wdrhf.akamaized.net/hls/live/2027996/wdr5/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",COSMO
+https://wdrhf.akamaized.net/hls/live/2027997/cosmo/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",Die_Sendung_mit_der_Maus
+https://wdrhf.akamaized.net/hls/live/2028167/diemaus/64/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",WDR_Event
+https://wdrhf.akamaized.net/hls/live/2028169/wdrevent/64/seglist.m3u8
+
