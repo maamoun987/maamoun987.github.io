@@ -55,8 +55,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 group-title="LOW",BBC_Per_420
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 
-#EXTINF:-1 group-title="HD",AlMayadeen_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LsYZwXhN04Q
 #EXTINF:-1 group-title="SD",AlMayadeen_540
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 #EXTINF:-1 group-title="LOW",AlMayadeen_480
@@ -90,7 +88,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4264747343
 #EXTINF:-1 group-title="LOW",Syria_Sat_360
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 group-title="HD",Syria_Drama_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4437577506422
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4489900138102
 #EXTINF:-1 group-title="SD",Syria_Drama_576
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14177
 #EXTINF:-1 group-title="LOW",Syria_Drama_360
@@ -99,8 +97,6 @@ http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2404815871606
 #EXTINF:-1 group-title="LOW",Syria_News_360
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 group-title="HD",ShamFM+_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/1366568541799
 #EXTINF:-1 group-title="HD",SYR_Ugarit_JUSTWindows
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2231907917430
 

@@ -1,6 +1,7 @@
 ####Stations####
 Ninar-FM,http://ninarfm.grtvstream.com:8896/stream,
 Sham-FM,http://radioshamfm.grtvstream.com:8400/;stream.nsv,
+Sham-FM+,https://radioshamfmplus.grtvstream.com:8022/stream
 Almadina-FM,https://stream.almadinafm.com/;stream.mp3,
 RotanaTarab-FM,http://188.247.86.67:8004/stream/3/,
 Madoradio,http://193.108.118.145:8020/;stream.mp3,
