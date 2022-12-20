@@ -122,6 +122,12 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1 group-title="LOW",MBC_1_420
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
 
+#EXTINF:-1 group-title="FHD",MBC_2_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14140
+
+#EXTINF:-1 group-title="FHD",MBC_Max_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14450
+
 #EXTINF:-1 group-title="FHD",MBC_Drama_KSA_1080
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 #EXTINF:-1 group-title="HD",MBC_Drama_KSA_720
@@ -434,3 +440,21 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
 #EXTINF:-1 group-title="LOW",Spacetoon_420
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_4.m3u8
+
+#EXTINF:-1 group-title="FHD",Al Jadeed_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14185
+
+#EXTINF:-1 group-title="FHD",Future TV_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14183
+
+#EXTINF:-1 group-title="FHD",MTV_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14182
+
+#EXTINF:-1 group-title="FHD",LBCin_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14192
+
+#EXTINF:-1 group-title="FHD",LBC_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14113
+
+#EXTINF:-1 group-title="FHD",LBC_1080
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14501
