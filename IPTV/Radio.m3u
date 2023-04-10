@@ -4,8 +4,6 @@
 http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
 http://radioshamfm.grtvstream.com:8400/;stream.nsv
-#EXTINF:-1 group-title="Syrian_Radio",Sham-FM+
-https://radioshamfmplus.grtvstream.com:8022/stream
 #EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
 https://stream.almadinafm.com/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
@@ -25,13 +23,11 @@ http://radioliveb.rtv.gov.sy:8008/RadioSouryana
 #EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
 http://radioliveb.rtv.gov.sy:8002/RadioShabab
 #EXTINF:-1 group-title="Syrian_Radio",Sada-FM
-http://sc8new.shoutcaststreaming.us:8032/stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
-https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_17532_stream_726858015
+http://87.98.221.148:14580/;stream.mp3/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
 http://swaida.com:9996/
 #EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
-http://192.99.17.12:4986/;stream.mp3
+http://192.95.23.89:4986/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
 http://radioliveb.rtv.gov.sy:8002/RadioCham
 #EXTINF:-1 group-title="Syrian_Radio",AmwajFm
@@ -47,7 +43,7 @@ http://185.4.87.79:8000/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Mix_FM
 https://stream.mixfmsyria.net/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Version_FM
-http://162.0.230.103:8000/
+https://versionfm.com:8100/stream
 
 
 #EXTINF:-1 group-title="News_Radio",AlJazeera

@@ -100,6 +100,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2231907917
 
 #EXTINF:-1 group-title="HD",Lana_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="SD",Sama_576
 http://162.55.32.203:1935/live/_definst_/smil:mystream1.smil/chunklist_w539303643_b2092100_slip,162,55,32,203,ip.m3u8
@@ -357,9 +358,9 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/334c109ed174426fc2893c85ccb70489.m
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/21e8d9d8a7b721c6a92799b4539ff4a8.m3u8
 
 #EXTINF:-1 group-title="HD",Amman_Tv_720
-https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 group-title="LOW",Amman_Tv_360
-https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_360p.m3u8
 
 #EXTINF:-1 group-title="HD",Roya_Tv_720
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
