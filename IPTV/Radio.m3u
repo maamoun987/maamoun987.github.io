@@ -7,7 +7,9 @@ http://radioshamfm.grtvstream.com:8400/;stream.nsv
 #EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
 https://stream.almadinafm.com/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
-http://188.247.86.67:8004/stream/3/
+http://188.247.86.67:8008/3/
+#EXTINF:-1 group-title="Syrian_Radio",Classic-FM
+http://usa6.fastcast4u.com:5109/live
 #EXTINF:-1 group-title="Syrian_Radio",Madoradio
 http://193.108.118.145:8020/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Melody-FM
@@ -15,13 +17,13 @@ http://streaming.inet.sy:8000/melodyfm
 #EXTINF:-1 group-title="Syrian_Radio",Nojoom-FM
 http://185.105.4.53:4423/stream
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
-https://radio.farah.fm/?type=http
+http://167.114.3.184:8000/;
 #EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
-http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+http://vod.ortas.sy:1935/oLive/rdimshq05042022/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
-http://radioliveb.rtv.gov.sy:8008/RadioSouryana
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
-http://radioliveb.rtv.gov.sy:8002/RadioShabab
+http://vod.ortas.sy:1935/oLive/rshabab05042022/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Sada-FM
 http://87.98.221.148:14580/;stream.mp3/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
@@ -29,13 +31,13 @@ http://swaida.com:9996/
 #EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
 http://192.95.23.89:4986/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
-http://radioliveb.rtv.gov.sy:8002/RadioCham
+http://vod.ortas.sy:1935/RCham/RChamLive/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",AmwajFm
-http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8?DVR
+http://radiolive.rtv.gov.sy:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Zenobia-FM
-http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
+http://vod.ortas.sy:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Syrian_Radio",Tartous-FM
-http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8?DVR
+http://vod.ortas.sy:1935/RTartus/RTartusLive/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",AlKarma-FM
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
@@ -126,23 +128,23 @@ https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_World_Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 group-title="En_Radio",BBC_1
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_1_xtra
-https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_2
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_3
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_4
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_4_Xtra
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_5
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_6_Music
-https://stream.live.vc.bbcmedia.co.uk/bbc_6music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_6music.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_London
-https://stream.live.vc.bbcmedia.co.uk/bbc_london
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_london.m3u8
 #EXTINF:-1 group-title="En_Radio",Heart_London
 http://media-ice.musicradio.com/HeartLondonMP3
 #EXTINF:-1 group-title="En_Radio",talkRADIO

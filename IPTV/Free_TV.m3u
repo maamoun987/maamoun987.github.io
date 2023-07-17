@@ -84,7 +84,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_720p_chunks.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 
 #EXTINF:-1 group-title="HD",Syria_SAT_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4682940817014
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/5024599711350
 #EXTINF:-1 group-title="LOW",Syria_Sat_360
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 group-title="HD",Syria_Drama_JUSTWindows
