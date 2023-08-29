@@ -106,9 +106,13 @@ https://eitc3.secure2.footprint.net/hls/LTV3.m3u8
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
 #EXTINF:-1 group-title="FHD",SyriaTv_1080
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="HD",SyriaTv_720
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="SD",SyriaTv_480
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="LOW", SyriaTv_360
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_360p/chunks_dvr.m3u8
 
 #EXTINF:-1 group-title="FHD",MBC_1_1080
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
@@ -226,14 +230,14 @@ https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b800
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 group-title="FHD",Dubai_1080
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b6000000.m3u8
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
 #EXTINF:-1 group-title="HD",Dubai_720
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="LOW",Dubai_360
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
 
 #EXTINF:-1 group-title="FHD",Dubai_Sama_1080
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b5000000.m3u8
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
 #EXTINF:-1 group-title="HD",Dubai_Sama_720
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="LOW",Dubai_Sama_360
@@ -357,7 +361,6 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/3678016328ce91b5a3663e3c6f
 #EXTINF:-1 group-title="LOW",Rotana_Music_360
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/edbbaaf10335358d39fe362a85849263.m3u8
 
-
 #EXTINF:-1 group-title="FHD",LBC_Int_1080
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
 #EXTINF:-1 group-title="HD",LBC_Int_720
@@ -366,6 +369,12 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/c8120ea96505ef7aa7f9e08ca963f0ea.m
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/334c109ed174426fc2893c85ccb70489.m3u8
 #EXTINF:-1 group-title="LOW",LBC_Int_360
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/21e8d9d8a7b721c6a92799b4539ff4a8.m3u8
+
+#EXTINF:-1 group-title="FHD",Al Jadeed_1080
+https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/19
+
+#EXTINF:-1 group-title="FHD",MTV_1080
+https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/32
 
 #EXTINF:-1 group-title="HD",Amman_Tv_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
@@ -462,9 +471,4 @@ https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b800000_
 #EXTINF:-1 group-title="LOW",Majid_360
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 group-title="FHD",Al Jadeed_1080
-https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/19
-
-#EXTINF:-1 group-title="FHD",MTV_1080
-https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/32
 
