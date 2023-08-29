@@ -32,6 +32,13 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b
 #EXTINF:-1 group-title="LOW",Alaraby_2_360 
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b350000.m3u8
 
+#EXTINF:-1 group-title="HD",SkyNews_AR_720
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="SD",SkyNews_AR_480
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:-1 group-title="LOW",SkyNews_AR_360
+https://stream.skynewsarabia.com/hls/sna_360.m3u8
+
 #EXTINF:-1 group-title="FHD",Dw_AR_1080
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="HD",Dw_AR_720
@@ -83,29 +90,20 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_720p_chunks.m3u8
 #EXTINF:-1 group-title="LOW",AlArabiya_Alhadath_360
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 
-#EXTINF:-1 group-title="HD",Syria_SAT_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/5024599711350
 #EXTINF:-1 group-title="LOW",Syria_Sat_360
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 group-title="HD",Syria_Drama_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/4664604958326
 #EXTINF:-1 group-title="LOW",Syria_Drama_360
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 group-title="HD",Syria_News_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2404815871606
+#EXTINF:-1 group-title="LOW",Syria_Drama_720
+https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/6
 #EXTINF:-1 group-title="LOW",Syria_News_360
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 group-title="HD",SYR_Ugarit_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/2231907917430
 
-#EXTINF:-1 group-title="HD",Lana_720
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SD",Lana_400
+https://eitc3.secure2.footprint.net/hls/LTV3.m3u8
 
-#EXTINF:-1 group-title="SD",Sama_576
-http://162.55.32.203:1935/live/_definst_/smil:mystream1.smil/chunklist_w539303643_b2092100_slip,162,55,32,203,ip.m3u8
-#EXTINF:-1 group-title="LOW",Sama_420
-http://162.55.32.203:1935/live/_definst_/smil:mystream1.smil/chunklist_w539303643_b1068100_slip,162,55,32,203,ip.m3u8
+#EXTINF:-1 group-title="SD",Sama_400
+https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
 
 #EXTINF:-1 group-title="FHD",SyriaTv_1080
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
@@ -121,20 +119,30 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1 group-title="LOW",MBC_1_420
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
 
-#EXTINF:-1 group-title="FHD",MBC_2_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14140
-
-#EXTINF:-1 group-title="FHD",MBC_Max_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14450
+#EXTINF:-1 group-title="SD",MBC_2_576_Windows
+#EXTVLCOPT:http-referrer=https://watch.3rbcafee.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://www.wsla.top/streams/1_.m3u8
 
 #EXTINF:-1 group-title="FHD",MBC_Drama_KSA_1080
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_19.m3u8
 #EXTINF:-1 group-title="HD",MBC_Drama_KSA_720
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
 #EXTINF:-1 group-title="SD",MBC_Drama_KSA_576
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_3.m3u8
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_23.m3u8
 #EXTINF:-1 group-title="LOW",MBC_Drama_KSA_420
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_24.m3u8
+
+
+#EXTINF:-1 group-title="FHD",MBC_Drama_USA_1080
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_1.m3u8
+#EXTINF:-1 group-title="HD",MBC_Drama_USA_720
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_3.m3u8
+#EXTINF:-1 group-title="SD",MBC_Drama_USA_576
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_4.m3u8
+#EXTINF:-1 group-title="LOW",MBC_Drama_USA_420
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_5.m3u8
+
 
 #EXTINF:-1 group-title="FHD",MBC_Drama_Plus_1080
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
@@ -173,13 +181,13 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8
 
 #EXTINF:-1 group-title="FHD",Mbc_Masr_1080 
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_28.m3u8
 #EXTINF:-1 group-title="HD",Mbc_Masr_720
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_30.m3u8
 #EXTINF:-1 group-title="SD",Mbc_Masr_576
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_32.m3u8
 #EXTINF:-1 group-title="LOW",Mbc_Masr_420
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_33.m3u8
 
 #EXTINF:-1 group-title="FHD",Mbc_Masr2_1080 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
@@ -231,38 +239,42 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunk
 #EXTINF:-1 group-title="LOW",Dubai_Sama_360
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b850000.m3u8
 
-#EXTINF:-1 group-title="SD",Dubai_Zaman_576
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="FHD",Dubai_Zaman_1080
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 #EXTINF:-1 group-title="LOW",Dubai_Zaman_420
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b725000.m3u8
 
 #EXTINF:-1 group-title="FHD",Dubai_One_1080 
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="HD",Dubai_One_720
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="SD",Dubai_One_480
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="LOW",Dubai_One_240
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
 #EXTINF:-1 group-title="HD",Qatar_1_720
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:-1 group-title="SD",Qatar_1_576
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master576p.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/3.m3u8
 #EXTINF:-1 group-title="LOW",Qatar_1_480
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/2.m3u8
 
 #EXTINF:-1 group-title="HD",Qatar_2_720
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 #EXTINF:-1 group-title="SD",Qatar_2_576
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master576p.m3u8
-#EXTINF:-1 group-title="SD",Qatar_2_480
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master480p.m3u8
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/3.m3u8
+#EXTINF:-1 group-title="LOW",Qatar_2_480
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/2.m3u8
 
 #EXTINF:-1 group-title="FHD",Alrayyan_1080
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_source/chunks.m3u8
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="HD",Alrayyan_720
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="SD",Alrayyan_480
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_480p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="LOW",Alrayyan_360
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_360p/chunks.m3u8
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_360p/chunks_dvr.m3u8
 
 #EXTINF:-1 group-title="FHD",Rotana_Cinema_KSA_1080
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
@@ -319,13 +331,13 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/b68c47eada00c2adcf0333e408
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/4a08f6b6bfd70ef2f7e23d0bc0cb1327.m3u8
 
 #EXTINF:-1 group-title="FHD",Rotana_Kids_1080
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_73.m3u8
 #EXTINF:-1 group-title="HD",Rotana_Kids_720
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_74.m3u8
 #EXTINF:-1 group-title="SD",Rotana_Kids_576
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_75.m3u8
 #EXTINF:-1 group-title="LOW",Rotana_Kids_420
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_4.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_76.m3u8
 
 #EXTINF:-1 group-title="FHD",Rotana_+_1080
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
@@ -345,8 +357,6 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/3678016328ce91b5a3663e3c6f
 #EXTINF:-1 group-title="LOW",Rotana_Music_360
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/edbbaaf10335358d39fe362a85849263.m3u8
 
-#EXTINF:-1 group-title="HD",Rotana_Clip_JUSTWindows
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-clip/
 
 #EXTINF:-1 group-title="FHD",LBC_Int_1080
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
@@ -362,12 +372,14 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 group-title="LOW",Amman_Tv_360
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_360p.m3u8
 
+#EXTINF:-1 group-title="FHD",Roya_Tv_1080
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_13.m3u8
 #EXTINF:-1 group-title="HD",Roya_Tv_720
-https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Roya_Tv_480
-https://weyyak-live.akamaized.net/weyyak_roya/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Roya_Tv_360
-https://weyyak-live.akamaized.net/weyyak_roya/tracks-v3a1/mono.m3u8
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_14.m3u8
+#EXTINF:-1 group-title="SD",Roya_Tv_576
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_15.m3u8
+#EXTINF:-1 group-title="LOW",Roya_Tv_480
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_16.m3u8
 
 #EXTINF:-1 group-title="HD",ZEE_AFLAM_720
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
@@ -440,20 +452,19 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 group-title="LOW",Spacetoon_420
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_4.m3u8
 
-#EXTINF:-1 group-title="FHD",Al Jadeed_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14185
 
-#EXTINF:-1 group-title="FHD",Future TV_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14183
+#EXTINF:-1 group-title="FHD",Majid_1080
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="HD",Majid_720
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SD",Majid_480
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="LOW",Majid_360
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 group-title="FHD",Al Jadeed_1080
+https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/19
 
 #EXTINF:-1 group-title="FHD",MTV_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14182
+https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/32
 
-#EXTINF:-1 group-title="FHD",LBCin_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14192
-
-#EXTINF:-1 group-title="FHD",LBC_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14113
-
-#EXTINF:-1 group-title="FHD",LBC_1080
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14501
