@@ -49,18 +49,10 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/strea
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="HD",BBC_AR_720
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="SD",BBC_AR_540
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 group-title="LOW",BBC_AR_420
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 group-title="HD",BBC_Per_720
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="SD",BBC_Per_540
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 group-title="LOW",BBC_Per_420
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 group-title="SD",AlMayadeen_540
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
@@ -280,6 +272,7 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 #EXTINF:-1 group-title="LOW",Alrayyan_360
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_360p/chunks_dvr.m3u8
 
+
 #EXTINF:-1 group-title="FHD",Rotana_Cinema_KSA_1080
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 #EXTINF:-1 group-title="HD",Rotana_Cinema_KSA_720
@@ -360,6 +353,31 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/09a2d4d3e01adfb90635502287
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/3678016328ce91b5a3663e3c6f0899d2.m3u8
 #EXTINF:-1 group-title="LOW",Rotana_Music_360
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/edbbaaf10335358d39fe362a85849263.m3u8
+
+#EXTINF:-1 group-title="FHD",Rotana_Clip_1080 
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HD",Rotana_Clip_720
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_720p/chunks.m3u8
+#EXTINF:-1 group-title="SD",Rotana_Clip_480
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_480p/chunks.m3u8
+#EXTINF:-1 group-title="LOW",Rotana_Clip_360
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_360p/chunks.m3u8
+
+#EXTINF:-1 group-title="FHD",AlRisala_1080 
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+#EXTINF:-1 group-title="HD",AlRisala_720
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8
+#EXTINF:-1 group-title="SD",AlRisala_480
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
+#EXTINF:-1 group-title="LOW",AlRisala_360
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_360p/chunks.m3u8
+
+#EXTINF:-1 group-title="FHD",DehkWbass_1080 
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
+#EXTINF:-1 group-title="FHD",SedatAlshasha_1080 
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
+#EXTINF:-1 group-title="FHD",Romance_1080 
+https://daiconnect.com/live/hls/rotana/romance/.m3u8
 
 #EXTINF:-1 group-title="FHD",LBC_Int_1080
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
