@@ -120,6 +120,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://www.wsla.top/streams/1_.m3u8
 
+
 #EXTINF:-1 group-title="FHD",MBC_Drama_KSA_1080
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_19.m3u8
 #EXTINF:-1 group-title="HD",MBC_Drama_KSA_720
@@ -356,26 +357,7 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/edbbaaf10335358d39fe362a85
 
 #EXTINF:-1 group-title="FHD",Rotana_Clip_1080 
 https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8
-#EXTINF:-1 group-title="FHD",Rotana_Clip_1080 1111
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8?p=48&s=1697020678&e=1697107078&cf=1697107078&h=31fa5e0389152d20a1221b424fef9585
-#EXTINF:-1 group-title="FHD",Rotana_Clip_1080 222
-https://cdn-lj-01.perception.tv/shls/e169ab58ef784566a48c8a7a65073e95/0da0058905dc4f06bd2a97f0e575b302/media.m3u
 
-#EXTINF:-1 group-title="HD",Rotana_Clip_720
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_720p/chunks.m3u8
-#EXTINF:-1 group-title="SD",Rotana_Clip_480
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_480p/chunks.m3u8
-#EXTINF:-1 group-title="LOW",Rotana_Clip_360
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_360p/chunks.m3u8
-
-#EXTINF:-1 group-title="FHD",AlRisala_1080 
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
-#EXTINF:-1 group-title="HD",AlRisala_720
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8
-#EXTINF:-1 group-title="SD",AlRisala_480
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
-#EXTINF:-1 group-title="LOW",AlRisala_360
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_360p/chunks.m3u8
 
 #EXTINF:-1 group-title="FHD",DehkWbass_1080 
 https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
