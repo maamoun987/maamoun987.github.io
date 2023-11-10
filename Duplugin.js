@@ -1,7 +1,7 @@
 /*
-  * Title : Visametric autofill
-  * Author: Naderidev
-  * Github: https://github.com/naderidev
+  * Title : Appointment check
+  * Author: Maamoun987
+  * Github: https://github.com/Maamoun987
 */
 
 if (window.location.href === 'https://ir-appointment.visametric.com/en/appointment-form') {
