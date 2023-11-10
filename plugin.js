@@ -4,7 +4,7 @@
   * Github: https://github.com/naderidev
 */
 
-if (window.location.href === 'https://ir-appointment.visametric.com/ir/appointment-form') {
+if (window.location.href === 'https://ir-appointment.visametric.com/en/appointment-form') {
     $(document).ready(function () {
         clearInterval(x)
 
