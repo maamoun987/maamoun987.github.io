@@ -87,15 +87,20 @@ http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 group-title="LOW",Syria_Drama_360
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 #EXTINF:-1 group-title="LOW",Syria_Drama_720
-https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/6
+http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54142
 #EXTINF:-1 group-title="LOW",Syria_News_360
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 
 #EXTINF:-1 group-title="SD",Lana_400
 https://eitc3.secure2.footprint.net/hls/LTV3.m3u8
+#EXTINF:-1 group-title="SD",Lana2
+http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54136
 
 #EXTINF:-1 group-title="SD",Sama_400
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
+#EXTINF:-1 group-title="SD",Sama2
+http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54137
+
 
 #EXTINF:-1 group-title="FHD",SyriaTv_1080
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
