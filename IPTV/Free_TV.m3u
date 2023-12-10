@@ -371,20 +371,17 @@ https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 #EXTINF:-1 group-title="FHD",Romance_1080 
 https://daiconnect.com/live/hls/rotana/romance/.m3u8
 
-#EXTINF:-1 group-title="FHD",LBC_Int_1080
+#EXTINF:-1 group-title="FHD",LBC_1080
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
-#EXTINF:-1 group-title="HD",LBC_Int_720
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/c8120ea96505ef7aa7f9e08ca963f0ea.m3u8
-#EXTINF:-1 group-title="SD",LBC_Int_540
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/334c109ed174426fc2893c85ccb70489.m3u8
-#EXTINF:-1 group-title="LOW",LBC_Int_360
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/21e8d9d8a7b721c6a92799b4539ff4a8.m3u8
+
+#EXTINF:-1 group-title="FHD",LBC_Int_1080
+http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=770554&extension=m3u8
 
 #EXTINF:-1 group-title="FHD",Al Jadeed_1080
-https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/19
+http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&extension=m3u8
 
 #EXTINF:-1 group-title="FHD",MTV_1080
-https://freechannelsonly.xyz:2083/u7JewhWwuWkS/BRBRyWDNUEr6/32
+http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=662602&extension=m3u8
 
 #EXTINF:-1 group-title="HD",Amman_Tv_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
