@@ -289,6 +289,10 @@ http://www.teledunet.com:8080/tdn/tdn/128
 http://www.teledunet.com:8080/tdn/tdn/129
 #EXTINF:-1 group-title="FHD",OSN ART CINEMA
 http://www.teledunet.com:8080/tdn/tdn/130
+OSN CINEMA 1
+http://www.teledunet.com:8080/tdn/tdn/133
+#EXTINF:-1,OSN CINEMA 2
+http://www.teledunet.com:8080/tdn/tdn/134
 
 #EXTINF:-1 group-title="FHD",Osn_Aflam_1080
 http://www.teledunet.com:8080/tdn/tdn/125
