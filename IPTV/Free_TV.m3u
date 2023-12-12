@@ -9,14 +9,24 @@ https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
 #EXTINF:-1 group-title="LOW",Aljazeera_420
 https://live-hls-aja-ak.getaj.net/AJA-b/04.m3u8
 
-#EXTINF:-1 group-title="FHD",Aljazeera_Docu_1080
+#EXTINF:-1 group-title="HD",Aljazeera_En_720
+https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="FHD",Aljazeera_Docu1_1080
+https://www.youtube.com/embed/TiPYdMXt_XI?si=jQVdA0lrk8KxSdLF
+#EXTINF:-1 group-title="FHD",Aljazeera_Docu2_1080
 http://www.teledunet.com:8080/tdn/tdn/106
-#EXTINF:-1 group-title="HD",Aljazeera_Docu_720
-https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:-1 group-title="SD",Aljazeera_Docu_540
+#EXTINF:-1 group-title="FHD",Aljazeera_Docu3_1080
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
-#EXTINF:-1 group-title="LOW",Aljazeera_Docu_420
-https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
+
+#EXTINF:-1 group-title="FHD",Nat_Geo_AD_1080
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="HD",Nat_Geo_AD_720
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SD",Nat_Geo_AD_480
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="LOW",Nat_Geo_AD_360 
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 group-title="FHD",Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
@@ -47,6 +57,11 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/strea
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="LOW",Dw_AR_420
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="HD",Dw_De_720
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="HD",Dw_En_720
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="HD",BBC_AR_720
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
@@ -213,15 +228,6 @@ https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_
 #EXTINF:-1 group-title="LOW",Abu_Dhabi_360       
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 group-title="FHD",Nat_Geo_AD_1080
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="HD",Nat_Geo_AD_720
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="SD",Nat_Geo_AD_480
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="LOW",Nat_Geo_AD_360 
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-
 #EXTINF:-1 group-title="FHD",AlEmarat_1080
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="HD",AlEmarat_720
@@ -289,13 +295,16 @@ http://www.teledunet.com:8080/tdn/tdn/128
 http://www.teledunet.com:8080/tdn/tdn/129
 #EXTINF:-1 group-title="FHD",OSN ART CINEMA
 http://www.teledunet.com:8080/tdn/tdn/130
-OSN CINEMA 1
+#EXTINF:-1 group-title="FHD",OSN CINEMA 1
 http://www.teledunet.com:8080/tdn/tdn/133
-#EXTINF:-1,OSN CINEMA 2
+#EXTINF:-1 group-title="FHD",,OSN CINEMA 2
 http://www.teledunet.com:8080/tdn/tdn/134
 
 #EXTINF:-1 group-title="FHD",Osn_Aflam_1080
 http://www.teledunet.com:8080/tdn/tdn/125
+
+#EXTINF:-1 group-title="FHD",Bee_Movies_1080
+https://www.youtube.com/watch?v=vbfVs2Ku5E0&ab_channel=BeeMovies
 
 #EXTINF:-1 group-title="FHD",Rotana_Aflam_1080
 http://www.teledunet.com:8080/tdn/tdn/593
@@ -419,50 +428,6 @@ https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index
 #EXTINF:-1 group-title="LOW",Roya_Tv_480
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_16.m3u8
 
-#EXTINF:-1 group-title="HD",ZEE_AFLAM_720
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",ZEE_AFLAM_480
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",ZEE_AFLAM_360
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="HD",ZEE_ALWAN_720
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",ZEE_ALWAN_480
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="SD",ZEE_ALWAN_360
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="HD",Weyyak_Drama_720
-https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Weyyak_Drama_480
-https://weyyak-live.akamaized.net/weyyak_drama/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Weyyak_Drama_360
-https://weyyak-live.akamaized.net/weyyak_drama/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="HD",Weyyak_Action_720
-https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Weyyak_Action_480
-https://weyyak-live.akamaized.net/weyyak_action/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Weyyak_Action_360
-https://weyyak-live.akamaized.net/weyyak_action/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="HD",Weyyak_Mix_720
-https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Weyyak_Mix_480
-https://weyyak-live.akamaized.net/weyyak_mix/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Weyyak_Mix_360
-https://weyyak-live.akamaized.net/weyyak_mix/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="HD",Weyyak_Nawaem_720
-https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SD",Weyyak_Nawaem_480
-https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LOW",Weyyak_Nawaem_360
-https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v3a1/mono.m3u8
-
-
-
 #EXTINF:-1 group-title="FHD",Wanasah_1080
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 #EXTINF:-1 group-title="HD",Wanasah_720
@@ -489,7 +454,6 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
 #EXTINF:-1 group-title="LOW",Spacetoon_420
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_4.m3u8
-
 
 #EXTINF:-1 group-title="FHD",Majid_1080
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
