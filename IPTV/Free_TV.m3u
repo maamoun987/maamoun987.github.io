@@ -102,7 +102,7 @@ http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 group-title="HD",Syria_Sat_720
 http://www.teledunet.com:8080/tdn/tdn/730
 
-#EXTINF:-1 group-title="SD",Syria_Drama_576
+#EXTINF:-1 group-title="SD",Syria_Drama_720
 http://www.teledunet.com:8080/tdn/tdn/732
 #EXTINF:-1 group-title="HD",Syria_Drama_720
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54142
@@ -113,6 +113,8 @@ http://www.teledunet.com:8080/tdn/tdn/54062
 
 #EXTINF:-1 group-title="SD",Lana_400
 https://eitc3.secure2.footprint.net/hls/LTV3.m3u8
+#EXTINF:-1 group-title="SD",Lana1
+http://www.teledunet.com:8080/tdn/tdn/736
 #EXTINF:-1 group-title="SD",Lana2
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54136
 
