@@ -20,13 +20,7 @@ http://www.teledunet.com:8080/tdn/tdn/106
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 
 #EXTINF:-1 group-title="FHD",Nat_Geo_AD_1080
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="HD",Nat_Geo_AD_720
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="SD",Nat_Geo_AD_480
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="LOW",Nat_Geo_AD_360 
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
 #EXTINF:-1 group-title="FHD",Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
@@ -222,24 +216,13 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
 
 #EXTINF:-1 group-title="FHD",Abu_Dhabi_1080
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_05/index.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6965262,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1"
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8
-#EXTINF:-1 group-title="HD",Abu_Dhabi_720   
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="SD",Abu_Dhabi_480  
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="LOW",Abu_Dhabi_360       
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 #EXTINF:-1 group-title="FHD",AlEmarat_1080
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="HD",AlEmarat_720
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="SD",AlEmarat_480
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="LOW",AlEmarat_360
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
+#EXTINF:-1 group-title="FHD",Baynounah_1080
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 
 #EXTINF:-1 group-title="FHD",Dubai_1080
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
