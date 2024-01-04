@@ -222,7 +222,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
 
 #EXTINF:-1 group-title="FHD",Abu_Dhabi_1080
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="stream_05/index.m3u8"
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8
 #EXTINF:-1 group-title="HD",Abu_Dhabi_720   
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="SD",Abu_Dhabi_480  
@@ -407,13 +408,20 @@ https://daiconnect.com/live/hls/rotana/romance/.m3u8
 #EXTINF:-1 group-title="FHD",LBC_1080
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
-#EXTINF:-1 group-title="FHD",LBC_Int_1080
+#EXTINF:-1 group-title="FHD",LBC_Int_1_1080
+http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/3
+#EXTINF:-1 group-title="FHD",LBC_Int_2_1080
 http://www.teledunet.com:8080/tdn/tdn/298
 
-#EXTINF:-1 group-title="FHD",Al Jadeed_1080
+http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/4.m3u8
+#EXTINF:-1 group-title="FHD",Al Jadeed_1_1080
+http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/4
+#EXTINF:-1 group-title="FHD",Al Jadeed_2_1080
 http://teledunet.com:8080/tdn/tdn/290
 
-#EXTINF:-1 group-title="FHD",MTV_1080
+#EXTINF:-1 group-title="FHD",MTV_1_1080
+http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/5
+#EXTINF:-1 group-title="FHD",MTV_2_1080
 http://www.teledunet.com:8080/tdn/tdn/292
 
 #EXTINF:-1 group-title="HD",Amman_Tv_720
