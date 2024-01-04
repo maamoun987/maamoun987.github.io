@@ -222,7 +222,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
 
 #EXTINF:-1 group-title="FHD",Abu_Dhabi_1080
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="stream_05/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_05/index.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6965262,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1"
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8
 #EXTINF:-1 group-title="HD",Abu_Dhabi_720   
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
