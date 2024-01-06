@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,Aljazeera_540
+#EXTINF:-1,001_Aljazeera_540
 https://live-hls-aja-ak.getaj.net/AJA-b/03.m3u8
-#EXTINF:-1,Aljazeera_1080
+#EXTINF:-1,001_Aljazeera_1080
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
-#EXTINF:-1,Aljazeera_720
+#EXTINF:-1,001_Aljazeera_720
 https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
-#EXTINF:-1,Aljazeera_420
+#EXTINF:-1,001_Aljazeera_420
 https://live-hls-aja-ak.getaj.net/AJA-b/04.m3u8
 
-#EXTINF:-1,Aljazeera_En_720
+#EXTINF:-1,002_Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1,Aljazeera_Docu1_1080
