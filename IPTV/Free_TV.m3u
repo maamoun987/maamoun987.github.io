@@ -69,32 +69,17 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_
 #EXTINF:-1,AlArabiya_Alhadath_720
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 
-#EXTINF:-1,Syria_Sat_360
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1,Syria_Sat_720
-http://www.teledunet.com:8080/tdn/tdn/730
-
-#EXTINF:-1,Syria_Drama_720
-http://www.teledunet.com:8080/tdn/tdn/732
 #EXTINF:-1,Syria_Drama_720
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54142
-#EXTINF:-1,Syria_News_576
-http://www.teledunet.com:8080/tdn/tdn/739
-#EXTINF:-1,Syria_Mahlia_576
-http://www.teledunet.com:8080/tdn/tdn/54062
+#EXTINF:-1,Syria_Drama_720
+http://www.teledunet.com:8080/tdn/tdn/732
 
-#EXTINF:-1,Lana_400
-https://p-ltv.akamaized.net/ltv/ltv_3.m3u8
-#EXTINF:-1,Lana1
-http://www.teledunet.com:8080/tdn/tdn/736
 #EXTINF:-1,Lana2
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54136
 
 #EXTINF:-1,Sama_400
 https://stream.sama-tv.net/hls/samatv_higher/index.m3u8
-#EXTINF:-1,Sama1
-http://www.teledunet.com:8080/tdn/tdn/734
-#EXTINF:-1,Sama2
+#EXTINF:-1,Sama
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54137
 
 
@@ -109,7 +94,7 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 
 #EXTINF:-1,MBC_2_720
-http://www.teledunet.com:8080/tdn/tdn/564
+http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/5816
 
 #EXTINF:-1,MBC_Drama_KSA_1080
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_19.m3u8
@@ -187,10 +172,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 
 #EXTINF:-1,Alrayyan_1080
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks.m3u8
 #EXTINF:-1,Alrayyan_720
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8
-
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks.m3u8
 
 #EXTINF:-1,OSN ART AFLAM 1
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/53902
@@ -268,14 +252,10 @@ https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
 #EXTINF:-1,LBC_Int_1_1080
 http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/3
-#EXTINF:-1,LBC_Int_2_1080
-http://www.teledunet.com:8080/tdn/tdn/298
 
 #EXTINF:-1,Al Jadeed_1_1080
 http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/4
 #EXTINF:-1,Al Jadeed_2_1080
-http://teledunet.com:8080/tdn/tdn/290
-#EXTINF:-1,Al Jadeed_3_1080
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54013
 
 #EXTINF:-1,MTV_1_1080
