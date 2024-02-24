@@ -10,8 +10,6 @@ https://stream.almadinafm.com/;stream.mp3
 http://188.247.86.67:8008/3/
 #EXTINF:-1 group-title="Syrian_Radio",Classic-FM
 http://usa6.fastcast4u.com:5109/live
-#EXTINF:-1 group-title="Syrian_Radio",Madoradio
-http://193.108.118.145:8020/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Melody-FM
 http://streaming.inet.sy:8000/melodyfm
 #EXTINF:-1 group-title="Syrian_Radio",Nojoom-FM
@@ -20,8 +18,6 @@ http://185.105.4.53:4423/stream
 http://167.114.3.184:8000/;
 #EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
 http://vod.ortas.sy:1935/oLive/rdimshq05042022/playlist.m3u8
-#EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
 http://vod.ortas.sy:1935/oLive/rshabab05042022/playlist.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Sada-FM
@@ -58,45 +54,59 @@ https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_1
-https://server03.quran.com.kw:7036/;*.mp3
+http://live.mp3quran.net:9826/;
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_2
-http://quraan.us:9776/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Fares_Abbad
-https://server03.quran.com.kw:7033/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Jazza Al-Suweilih
-http://server2.quraan.us:9780/;*.mp3
+https://backup.qurango.net/radio/mohammed_siddiq_alminshawi
+#EXTINF:-1 group-title="Islamic_Radio",Fares_Abbad_1
+http://live.mp3quran.net:9972/;
+#EXTINF:-1 group-title="Islamic_Radio",Fares_Abbad_2
+https://backup.qurango.net/radio/fares_abbad
 #EXTINF:-1 group-title="Islamic_Radio",Al-Affasy
-https://server03.quran.com.kw:10998/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Qtami
-http://quraan.us:9886/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Ash-Shatiri
-http://quraan.us:9892/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Mmuaiqly
-https://server03.quran.com.kw:7005/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Dosari
-http://quraan.us:9884/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Ghamidi
-https://server03.quran.com.kw:7011/;*.mp3
+https://backup.qurango.net/radio/mishary_alafasi
+#EXTINF:-1 group-title="Islamic_Radio",Al-Qtami_1
+http://live.mp3quran.net:9994/;
+#EXTINF:-1 group-title="Islamic_Radio",Al-Qtami_2
+https://backup.qurango.net/radio/nasser_alqatami
+#EXTINF:-1 group-title="Islamic_Radio",Ash-Shatiri_1
+http://live.mp3quran.net:9966/;
+#EXTINF:-1 group-title="Islamic_Radio",Ash-Shatiri_2
+https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1 group-title="Islamic_Radio",Al-Mmuaiqly_1
+http://live.mp3quran.net:9996/;
+#EXTINF:-1 group-title="Islamic_Radio",Al-Mmuaiqly_2
+https://backup.qurango.net/radio/maher
+#EXTINF:-1 group-title="Islamic_Radio",Al-Dosari_1
+http://live.mp3quran.net:9984/;
+#EXTINF:-1 group-title="Islamic_Radio",Al-Dosari_2
+https://backup.qurango.net/radio/yasser_aldosari
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ghamidi_1
+http://live.mp3quran.net:9976/;
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ghamidi_2
+https://backup.qurango.net/radio/saad_alghamdi
 #EXTINF:-1 group-title="Islamic_Radio",Al-Yamani
 http://quraan.us:9784/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Idris-Abkar
-http://quraan.us:9300/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Ajmi
+#EXTINF:-1 group-title="Islamic_Radio",Idris-Abkar_1
+http://live.mp3quran.net:9968/;
+#EXTINF:-1 group-title="Islamic_Radio",Idris-Abkar_2
+https://backup.qurango.net/radio/idrees_abkr
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ajmi_1
 http://quraan.us:9852/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Al-Husari
-https://server03.quran.com.kw:7007/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
-https://server03.quran.com.kw:7000/;*.mp3
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ajmi_2
+https://backup.qurango.net/radio/ahmad_alajmy
+#EXTINF:-1 group-title="Islamic_Radio",Al-Husari_1
+http://live.mp3quran.net:9958/;
+#EXTINF:-1 group-title="Islamic_Radio",Al-Husari_2
+https://backup.qurango.net/radio/mahmoud_khalil_alhussary
+#EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad_1
+http://live.mp3quran.net:9980/;
+#EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad_2
+https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad
 #EXTINF:-1 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
 http://quraan.us:9888/;*.mp3
 #EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
 http://quraan.us:9310/;*.mp3
 #EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
 http://quraan.us:9312/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
-http://quraan.us:9314/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
-http://quraan.us:9316/;*.mp3
 #EXTINF:-1 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
 http://quraan.us:9986/;*.mp3
 
