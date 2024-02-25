@@ -193,14 +193,14 @@ https://www.youtube.com/watch?v=vbfVs2Ku5E0&ab_channel=BeeMovies
 http://www.teledunet.com:8080/tdn/tdn/593
 
 #EXTINF:-1,Rotana_Cinema_KSA_1080
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
 #EXTINF:-1,Rotana_Cinema_KSA_720
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_2.m3u8
+https://daiconnect.com/live/hls/rotana/cinema-ksa/2a3e6cb000927329810a396f3a0ded55/.m3u8?requestuid=3b1ad7b4-b9dc-484e-a4c8-c26d08b9f212
 
 #EXTINF:-1,Rotana_Cinema_EGY_1080
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+https://daiconnect.com/live/hls/rotana/cinemamasr/.m3u8
 #EXTINF:-1,Rotana_Cinema_EGY_720
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+https://daiconnect.com/live/hls/rotana/cinemamasr/3c1bb4197b7520e05ea36ef66c53d90c/.m3u8?requestuid=9f19e7cd-5503-4159-8a16-71d90ff040fc
 
 #EXTINF:-1,Rotana_Comedy_1080
 https://daiconnect.com/live/hls/rotana/comedy/.m3u8
@@ -208,14 +208,13 @@ https://daiconnect.com/live/hls/rotana/comedy/.m3u8
 https://daiconnect.com/live/hls/rotana/comedy/b16b733f8ec2a499f4233793d781eea9/.m3u8?requestuid=c1893b91-28fe-4f4e-a3e9-94fe7f21f8fe
 
 #EXTINF:-1,Rotana_Classic_1080
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
 #EXTINF:-1,Rotana_Classic_720
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
-
+https://daiconnect.com/live/hls/rotana/classical/db09c7d12b47b43e19a09cb0cbe11a53/.m3u8?requestuid=07234964-323d-4205-b760-d0a75f5fb3f1
 #EXTINF:-1,Rotana_Khalijiah_1080
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
 #EXTINF:-1,Rotana_Khalijiah_720
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
+https://daiconnect.com/live/hls/rotana/khaleejiya/6763bf77ddcab78319e4c8cf93f38c44/.m3u8?requestuid=8ce59193-cdba-4601-a7b8-e7c53d33f332
 
 #EXTINF:-1,Rotana_Drama_1080
 https://daiconnect.com/live/hls/rotana/drama/.m3u8
@@ -237,8 +236,10 @@ https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1,Rotana_Music_720
 https://daiconnect.com/live/hls/rotana/music/a3185b68ec56dee11c196a874bd32d11/.m3u8?requestuid=94067f7f-4239-4f8c-9be5-c9d58cf3d349
 
-#EXTINF:-1,Rotana_Clip_1080 
-http://www.teledunet.com:8080/tdn/tdn/594
+#EXTINF:-1,Rotana_Clip_1080
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8?p=48&s=1708843232&e=1708929632&cf=1708929632&h=eae3b37ddd7fc4ce7ffc5de8a819d3e3 
+#EXTINF:-1,Rotana_Clip_720
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_720p/chunks.m3u8?p=48&s=1708843232&e=1708929632&cf=1708929632&h=eae3b37ddd7fc4ce7ffc5de8a819d3e3
 
 #EXTINF:-1,DehkWbass_1080 
 https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
@@ -261,8 +262,6 @@ http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54013
 #EXTINF:-1,MTV_1_1080
 http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/5
 #EXTINF:-1,MTV_2_1080
-http://www.teledunet.com:8080/tdn/tdn/292
-#EXTINF:-1,MTV_3_1080
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54026
 
 
