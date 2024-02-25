@@ -211,6 +211,7 @@ https://daiconnect.com/live/hls/rotana/comedy/b16b733f8ec2a499f4233793d781eea9/.
 https://daiconnect.com/live/hls/rotana/classical/.m3u8
 #EXTINF:-1,Rotana_Classic_720
 https://daiconnect.com/live/hls/rotana/classical/db09c7d12b47b43e19a09cb0cbe11a53/.m3u8?requestuid=07234964-323d-4205-b760-d0a75f5fb3f1
+
 #EXTINF:-1,Rotana_Khalijiah_1080
 https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
 #EXTINF:-1,Rotana_Khalijiah_720
@@ -222,7 +223,7 @@ https://daiconnect.com/live/hls/rotana/drama/.m3u8
 https://daiconnect.com/live/hls/rotana/drama/6ff82c932bbc50333ee7bef935be3b50/.m3u8?requestuid=f875381f-8dbe-4bf1-af67-a95c02e686c3
 
 #EXTINF:-1,Rotana_Kids_1080
-https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_73.m3u8
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1,Rotana_Kids_720
 https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_74.m3u8
 
