@@ -74,6 +74,8 @@ http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54142
 #EXTINF:-1,Syria_Drama_720
 http://www.teledunet.com:8080/tdn/tdn/732
 
+#EXTINF:-1,Lana1
+https://p-ltv.akamaized.net/ltv/master_1.m3u8
 #EXTINF:-1,Lana2
 http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54136
 
@@ -193,64 +195,44 @@ https://www.youtube.com/watch?v=vbfVs2Ku5E0&ab_channel=BeeMovies
 http://www.teledunet.com:8080/tdn/tdn/593
 
 #EXTINF:-1,Rotana_Cinema_KSA_1080
-https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1710894074~h=d9d247608f398883701faea0a569f52a/rotana/cinema_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Cinema_KSA_720
-https://daiconnect.com/live/hls/rotana/cinema-ksa/2a3e6cb000927329810a396f3a0ded55/.m3u8?requestuid=3b1ad7b4-b9dc-484e-a4c8-c26d08b9f212
+https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1710894074~h=d9d247608f398883701faea0a569f52a/rotana/cinema_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Cinema_EGY_1080
-https://daiconnect.com/live/hls/rotana/cinemamasr/.m3u8
+https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1710894415~h=8fec4150cf334e853219a55056e2a15e/rotana/cinemamasr_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Cinema_EGY_720
-https://daiconnect.com/live/hls/rotana/cinemamasr/3c1bb4197b7520e05ea36ef66c53d90c/.m3u8?requestuid=9f19e7cd-5503-4159-8a16-71d90ff040fc
+https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1710894415~h=8fec4150cf334e853219a55056e2a15e/rotana/cinemamasr_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Comedy_1080
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1710894195~h=f998aef4e37e9def222d1d1bdce3f248/rotana/comedy_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Comedy_720
-https://daiconnect.com/live/hls/rotana/comedy/b16b733f8ec2a499f4233793d781eea9/.m3u8?requestuid=c1893b91-28fe-4f4e-a3e9-94fe7f21f8fe
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1710894195~h=f998aef4e37e9def222d1d1bdce3f248/rotana/comedy_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Classic_1080
-https://daiconnect.com/live/hls/rotana/classical/.m3u8
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1710894611~h=ed113067541cdf7222177803fae6914f/rotana/classical_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Classic_720
-https://daiconnect.com/live/hls/rotana/classical/db09c7d12b47b43e19a09cb0cbe11a53/.m3u8?requestuid=07234964-323d-4205-b760-d0a75f5fb3f1
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1710894611~h=ed113067541cdf7222177803fae6914f/rotana/classical_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Khalijiah_1080
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1710894689~h=9397ada8575a5ff3697b72ca366bfbfc/rotana/khaleejiya_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Khalijiah_720
-https://daiconnect.com/live/hls/rotana/khaleejiya/6763bf77ddcab78319e4c8cf93f38c44/.m3u8?requestuid=8ce59193-cdba-4601-a7b8-e7c53d33f332
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1710894689~h=9397ada8575a5ff3697b72ca366bfbfc/rotana/khaleejiya_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Drama_1080
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1710894820~h=215a259a0091496f3375aec7eacbab97/rotana/drama_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Drama_720
-https://daiconnect.com/live/hls/rotana/drama/6ff82c932bbc50333ee7bef935be3b50/.m3u8?requestuid=f875381f-8dbe-4bf1-af67-a95c02e686c3
-
-#EXTINF:-1,Rotana_Kids_1080
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1,Rotana_Kids_720
-https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_74.m3u8
-
-#EXTINF:-1,Rotana_+_1080
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
-#EXTINF:-1,Rotana_+_720
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-
-#EXTINF:-1,Rotana_Music_1080 
-https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1,Rotana_Music_720
-https://daiconnect.com/live/hls/rotana/music/a3185b68ec56dee11c196a874bd32d11/.m3u8?requestuid=94067f7f-4239-4f8c-9be5-c9d58cf3d349
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1710894820~h=215a259a0091496f3375aec7eacbab97/rotana/drama_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Clip_1080
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8?p=48&s=1708843232&e=1708929632&cf=1708929632&h=eae3b37ddd7fc4ce7ffc5de8a819d3e3 
+https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1710894742~h=852e7e245bab0907aad760865d8a1a96/rotana/clip_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Clip_720
-https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_720p/chunks.m3u8?p=48&s=1708843232&e=1708929632&cf=1708929632&h=eae3b37ddd7fc4ce7ffc5de8a819d3e3
-
-#EXTINF:-1,DehkWbass_1080 
-https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
-#EXTINF:-1,SedatAlshasha_1080 
-https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
-#EXTINF:-1,Romance_1080 
-https://daiconnect.com/live/hls/rotana/romance/.m3u8
+https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1710894742~h=852e7e245bab0907aad760865d8a1a96/rotana/clip_720p/chunks.m3u8
 
 #EXTINF:-1,LBC_1080
-https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1710894507~h=a07b34cdf6dba79e2ec9ea44a0bc41f5/rotana/lbc_1080p/chunks.m3u8
+#EXTINF:-1,LBC_720
+https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1710894507~h=a07b34cdf6dba79e2ec9ea44a0bc41f5/rotana/lbc_720p/chunks.m3u8
 
 #EXTINF:-1,LBC_Int_1_1080
 http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/3
