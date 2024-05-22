@@ -257,12 +257,10 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1,Wanasah_720
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
 
-#EXTINF:-1,CN Arabic_1080
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
-#EXTINF:-1,CN Arabic_720
+#EXTINF:-1,CN_Ar_720
 http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/1052.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
-#EXTINF:-1,CN Arabic_1080
+#EXTINF:-1,CN_En_1080
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-avc1_3000000=4.m3u8
 
 #EXTINF:-1,Spacetoon_1080
