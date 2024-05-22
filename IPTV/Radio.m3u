@@ -14,8 +14,6 @@ http://82.212.85.196:8101/;
 http://usa6.fastcast4u.com:5109/live
 #EXTINF:-1 group-title="Syrian_Radio",Melody-FM
 http://streaming.inet.sy:8000/melodyfm
-#EXTINF:-1 group-title="Syrian_Radio",Nojoom-FM
-http://185.105.4.53:4423/stream
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
 http://167.114.3.184:8000/;
 #EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
