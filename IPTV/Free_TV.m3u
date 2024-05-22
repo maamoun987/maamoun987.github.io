@@ -65,9 +65,9 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 #EXTINF:-1,AlArabiya_Alhadath_720
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 
-#EXTINF:-1,Syria_Drama1_720
-http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54142
-#EXTINF:-1,Syria_Drama2_720
+#EXTINF:-1,Syria_Sat_720
+http://www.teledunet.com:8080/tdn/tdn/730
+#EXTINF:-1,Syria_Drama_720
 http://www.teledunet.com:8080/tdn/tdn/732
 
 #EXTINF:-1,Lana
@@ -191,7 +191,7 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=769437
 
 #EXTINF:-1,Rotana_Cinema_KSA_1080
-https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1715887752~h=1cd67b8fb38fcf35344b43e78360e216/rotana/cinema_1080p/chunks.m3u8
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1,Rotana_Cinema_KSA_720
 https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1715887752~h=1cd67b8fb38fcf35344b43e78360e216/rotana/cinema_720p/chunks.m3u8
 
@@ -199,14 +199,14 @@ https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1715887752~h=1cd6
 https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1715887150~h=d1e3da8f4e14ebc56e06660f1c3acf09/rotana/cinemamasr_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Comedy_1080
-https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1715887672~h=6a96f70976e66858f91752a079f446ab/rotana/comedy_1080p/chunks.m3u8
+https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=3d70ad8938e546b4ab322b5dc81a0380&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1,Rotana_Comedy_720
-https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1715887672~h=6a96f70976e66858f91752a079f446ab/rotana/comedy_720p/chunks.m3u8
+https://cdn-lj-01.perception.tv/shls/3d70ad8938e546b4ab322b5dc81a0380/33caf5246148427e8219ed7476a70e53/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 
 #EXTINF:-1,Rotana_Classic_1080
 https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1715887468~h=fe257301c7b8106b06f2616bfa85c892/rotana/classical_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Classic_720
-https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1715887468~h=fe257301c7b8106b06f2616bfa85c892/rotana/classical_720p/chunks.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Rotana_Khalijiah_1080
 https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1715888278~h=4f3af7c345b59a9093193014c5bf4c20/rotana/khaleejiya_1080p/chunks.m3u8
@@ -219,9 +219,9 @@ https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1715888338~h=bcd3e
 https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1715888338~h=bcd3e76deff36bb02bd2663138b9e295/rotana/drama_720p/chunks.m3u8
 
 #EXTINF:-1,Rotana_Clip_1080
-https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1715888251~h=d0952c4bb2d2291cce29e7cd488b655d/rotana/clip_1080p/chunks.m3u8
+https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=642567a3a40540218a08963554c743cf&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
 #EXTINF:-1,Rotana_Clip_720
-https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1715888251~h=d0952c4bb2d2291cce29e7cd488b655d/rotana/clip_720p/chunks.m3u8
+https://cdn-lj-01.perception.tv/shls/642567a3a40540218a08963554c743cf/b20da266c8b44ee3bf2373a5a0678815/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
 
 #EXTINF:-1,LBC_1080
 https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1715888537~h=d768f497b11e9c45d14b530787cc5379/rotana/lbc_1080p/chunks.m3u8
@@ -248,9 +248,9 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTnpHhag&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
 
 #EXTINF:-1,Roya_Tv_1080
-https://roya-live.ercdn.net/roya/roya_1080p.m3u8?st=Bn9QRKLGSv1zV19OW3mnjQ&e=1715873648
+https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8
 #EXTINF:-1,Roya_Tv_720
-https://roya-live.ercdn.net/roya/roya_720p.m3u8?st=Bn9QRKLGSv1zV19OW3mnjQ&e=1715873648
+https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
 
 #EXTINF:-1,Wanasah_1080
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
