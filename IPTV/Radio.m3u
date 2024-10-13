@@ -34,8 +34,6 @@ http://radiolive.rtv.gov.sy:1935/RAmwaj/RAmwajLive/playlist.m3u8
 http://vod.ortas.sy:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Syrian_Radio",Tartous-FM
 http://vod.ortas.sy:1935/RTartus/RTartusLive/playlist.m3u8
-#EXTINF:-1 group-title="Syrian_Radio",AlKarma-FM
-http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
 http://185.4.87.79:8000/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Mix_FM
@@ -45,7 +43,7 @@ https://versionfm.com:8100/stream
 
 
 #EXTINF:-1 group-title="News_Radio",AlJazeera_ar
-https://live-hls-audio-web-aja.getaj.net/VOICE-AJA-b/01.m3u8
+https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8
 #EXTINF:-1 group-title="News_Radio",BBC_AR
 https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
 #EXTINF:-1 group-title="News_Radio",Montecarlo
@@ -101,35 +99,26 @@ https://backup.qurango.net/radio/mahmoud_khalil_alhussary
 http://live.mp3quran.net:9980/;
 #EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad_2
 https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad
-#EXTINF:-1 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
-http://quraan.us:9888/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
-http://quraan.us:9310/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
-http://quraan.us:9312/;*.mp3
-#EXTINF:-1 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
-http://quraan.us:9986/;*.mp3
-
 
 
 #EXTINF:-1 group-title="German_Radio",1LIVE_De
-https://wdrhf.akamaized.net/hls/live/2027955/1live/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027955/1live/master.m3u8
 #EXTINF:-1 group-title="German_Radio",1LIVE_DIGGI_De
-https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_2_De
-https://wdrhf.akamaized.net/hls/live/2027966/wdr2rheinland/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027966/wdr2rheinland/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_3_De
-https://wdrhf.akamaized.net/hls/live/2027994/wdr3/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_4_De
-https://wdrhf.akamaized.net/hls/live/2027995/wdr4/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027995/wdr4/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_5_De
-https://wdrhf.akamaized.net/hls/live/2027996/wdr5/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027996/wdr5/master.m3u8
 #EXTINF:-1 group-title="German_Radio",COSMO_De
-https://wdrhf.akamaized.net/hls/live/2027997/cosmo/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2027997/cosmo/master.m3u8
 #EXTINF:-1 group-title="German_Radio",Die_Sendung_mit_der_Maus_De
-https://wdrhf.akamaized.net/hls/live/2028167/diemaus/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2028167/diemaus/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_Event_De
-https://wdrhf.akamaized.net/hls/live/2028169/wdrevent/64/seglist.m3u8
+https://wdrhf.akamaized.net/hls/live/2028169/wdrevent/master.m3u8
 
 
 
