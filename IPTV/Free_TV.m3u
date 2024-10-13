@@ -68,7 +68,7 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 #EXTINF:-1,Syria_Sat_720
 http://www.teledunet.com:8080/tdn/tdn/730
 #EXTINF:-1,Syria_Drama_720
-https://el11.elahmad.com/tv706_www.elahmad.com_syria_drama/tracks-v1a1/mono.m3u8?token=5b81149251cd4b6704632a989de43e8b10ed33fc-73ae1158fc2bddcc91640b38b4777b7d-1728816109-1728805309
+https://edge66.magictvbox.com/liveApple/syria_drama/index.m3u8
 
 #EXTINF:-1,Lana1
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
@@ -198,20 +198,20 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=769437
 #EXTINF:-1,Rotana_Cinema_KSA_1080
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1,Rotana_Cinema_KSA_720
-https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1715887752~h=1cd67b8fb38fcf35344b43e78360e216/rotana/cinema_720p/chunks.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_cinema_plus/index.m3u8
 
 #EXTINF:-1,Rotana_Cinema_EGY_720
-https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1715887150~h=d1e3da8f4e14ebc56e06660f1c3acf09/rotana/cinemamasr_720p/chunks.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_cinema/index.m3u8
 
 #EXTINF:-1,Rotana_Comedy_1080
 https://live.kwikmotion.com/rcomedylive/rcomedy.smil/playlist.m3u8?hdnts=exp=1728504450~acl=/rcomedylive/rcomedy.smil/*~hmac=cd03bf82ffca10a173ed89c7465dd55cf714d7ca9c94eb4bf7cac5522c76d756
 #EXTINF:-1,Rotana_Comedy_720
 https://cdn-lj-01.perception.tv/shls/3d70ad8938e546b4ab322b5dc81a0380/33caf5246148427e8219ed7476a70e53/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 
-#EXTINF:-1,Rotana_Classic_1080
-https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1715887468~h=fe257301c7b8106b06f2616bfa85c892/rotana/classical_1080p/chunks.m3u8
 #EXTINF:-1,Rotana_Classic_720
-https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_classic/index.m3u8
+
+
 
 #EXTINF:-1,Rotana_Khalijiah_1080
 https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1715888278~h=4f3af7c345b59a9093193014c5bf4c20/rotana/khaleejiya_1080p/chunks.m3u8
