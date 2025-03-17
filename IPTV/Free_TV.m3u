@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,1_Aljazeera_540
-https://live-hls-aja-ak.getaj.net/AJA-b/03.m3u8
 #EXTINF:-1,1_Aljazeera_1080
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 #EXTINF:-1,1_Aljazeera_720
 https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
-#EXTINF:-1,1_Aljazeera_420
-https://live-hls-aja-ak.getaj.net/AJA-b/04.m3u8
 
 #EXTINF:-1,Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
@@ -20,24 +16,29 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 
 #EXTINF:-1,Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1,Alaraby_720 
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 
 #EXTINF:-1,Alaraby_2_1080
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1,Alaraby_2_720 
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
+
+
+#EXTINF:-1,SyriaTv_1_1080
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
+#EXTINF:-1,SyriaTv_2_1080
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
+
+#EXTINF:-1,Lana
+https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
+
+
+#EXTINF:-1,Almashhad_1080
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 
 #EXTINF:-1,SkyNews_AR_720
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1,Dw_AR_1080
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-#EXTINF:-1,Dw_AR_720
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1,Dw_De_720
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
 #EXTINF:-1,Dw_En_720
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
@@ -48,60 +49,31 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ar
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1,AlMayadeen_540
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1,AlSharq_1080
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_0/chunklist.m3u8
-#EXTINF:-1,AlSharq_720
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8
 
 #EXTINF:-1,AlArabiya_1080
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:-1,AlArabiya_720
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 
 #EXTINF:-1,AlArabiya_Alhadath_1080
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1,AlArabiya_Alhadath_720
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 
-#EXTINF:-1,Syria_Sat_720
-http://www.teledunet.com:8080/tdn/tdn/730
-#EXTINF:-1,Syria_Drama_720
-https://edge66.magictvbox.com/liveApple/syria_drama/index.m3u8
 
-#EXTINF:-1,Lana1
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
-
-#EXTINF:-1,Lana2
-https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
-
-#EXTINF:-1,Sama
-https://app.sama-tv.net/hls/samatv_higher/index.m3u8
-
-#EXTINF:-1,SyriaTv_1080
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
-#EXTINF:-1,SyriaTv_720
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-
+#EXTINF:-1,MBC_1_USA_1080
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8
 #EXTINF:-1,MBC_1_1080
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
-#EXTINF:-1,MBC_1_720
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+#EXTINF:-1,MBC_1_1080
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
-#EXTINF:-1,MBC_2
-http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/1918.m3u8
-
+#EXTINF:-1,MBC_Drama_1080
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_1.m3u8
 #EXTINF:-1,MBC_Drama_KSA_1080
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_19.m3u8
-#EXTINF:-1,MBC_Drama_KSA_720
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
-
-
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 #EXTINF:-1,MBC_Drama_USA_1080
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
-#EXTINF:-1,MBC_Drama_USA_720
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 
 
 #EXTINF:-1,MBC_Drama_Plus_1080
@@ -109,40 +81,28 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1,MBC_Drama_Plus_720
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
 
+	
 #EXTINF:-1,MBC_Iraq_1080
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:-1,MBC_Iraq_720
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8
+
 
 #EXTINF:-1,Mbc_Bollywood_1080
 https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1,Mbc_Bollywood_720
-https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
 
 #EXTINF:-1,Mbc_PER_1080
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1,Mbc_PER_720
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
 
 #EXTINF:-1,Mbc_3_1080
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1,Mbc_3_720
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 
 #EXTINF:-1,Mbc_4_1080
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-#EXTINF:-1,Mbc_4_720
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 
 #EXTINF:-1,Mbc_Masr_1080 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
-#EXTINF:-1,Mbc_Masr_720
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
 
 #EXTINF:-1,Mbc_Masr2_1080 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1,Mbc_Masr2_720
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 
 #EXTINF:-1,Abu_Dhabi_1080
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -158,22 +118,16 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 
 
 #EXTINF:-1,Dubai_1080
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
-#EXTINF:-1,Dubai_720
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1,Dubai_Sama_1080
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
-#EXTINF:-1,Dubai_Sama_720
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1,Dubai_Zaman_1080
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 
 #EXTINF:-1,Dubai_One_1080 
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,Dubai_One_720
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1,Qatar_1_720
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
@@ -183,66 +137,16 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 
 #EXTINF:-1,Alrayyan_1080
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
-#EXTINF:-1,Alrayyan_720
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8
 
 #EXTINF:-1,Alrayyan_2_1080
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 
 
-
 #EXTINF:-1,Rotana_Aflam_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=769437
-
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
 #EXTINF:-1,Rotana_Cinema_KSA_1080
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
-#EXTINF:-1,Rotana_Cinema_KSA_720
-https://edge66.magictvbox.com/liveApple/rotana_cinema_plus/index.m3u8
-
-#EXTINF:-1,Rotana_Cinema_EGY_720
-https://edge66.magictvbox.com/liveApple/rotana_cinema/index.m3u8
-
-#EXTINF:-1,Rotana_Comedy_1080
-https://live.kwikmotion.com/rcomedylive/rcomedy.smil/playlist.m3u8?hdnts=exp=1728504450~acl=/rcomedylive/rcomedy.smil/*~hmac=cd03bf82ffca10a173ed89c7465dd55cf714d7ca9c94eb4bf7cac5522c76d756
-#EXTINF:-1,Rotana_Comedy_720
-https://cdn-lj-01.perception.tv/shls/3d70ad8938e546b4ab322b5dc81a0380/33caf5246148427e8219ed7476a70e53/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
-
-#EXTINF:-1,Rotana_Classic_720
-https://edge66.magictvbox.com/liveApple/rotana_classic/index.m3u8
-
-
-
-#EXTINF:-1,Rotana_Khalijiah_1080
-https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1715888278~h=4f3af7c345b59a9093193014c5bf4c20/rotana/khaleejiya_1080p/chunks.m3u8
-#EXTINF:-1,Rotana_Khalijiah_720
-https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1715888278~h=4f3af7c345b59a9093193014c5bf4c20/rotana/khaleejiya_720p/chunks.m3u8
-
-#EXTINF:-1,Rotana_Drama_1080
-https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1715888338~h=bcd3e76deff36bb02bd2663138b9e295/rotana/drama_1080p/chunks.m3u8
-#EXTINF:-1,Rotana_Drama_720
-https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1715888338~h=bcd3e76deff36bb02bd2663138b9e295/rotana/drama_720p/chunks.m3u8
-
-#EXTINF:-1,Rotana_Clip_1080
-https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=642567a3a40540218a08963554c743cf&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
-#EXTINF:-1,Rotana_Clip_720
-https://cdn-lj-01.perception.tv/shls/642567a3a40540218a08963554c743cf/b20da266c8b44ee3bf2373a5a0678815/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
-
-#EXTINF:-1,LBC_1080
-https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1728505748~acl=/rlbclive/rlbc.smil/*~hmac=725d163d79f2bdc8c9b02f7c66949a6ce3c28129a1be303768dabc81fa9bc805
-#EXTINF:-1,LBC_720
-https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1715888537~h=d768f497b11e9c45d14b530787cc5379/rotana/lbc_720p/chunks.m3u8
-
-#EXTINF:-1,LBC_Int_1_1080
-https://muutube.sonmezalp.com/proxy.php/https://mysat-live.ercdn.net/lbcinternational/lbcinternational_1080p.m3u8
-
-#EXTINF:-1,Al Jadeed_1_1080
-http://multies.xyz/live/DDB3FE3C4DA2B9C2C11F154E857553B5/4
-#EXTINF:-1,Al Jadeed_2_1080
-http://silvertv.net:1997/MehdiOIHAdAGAdir/H6ddKRJqjg/54013
-
-#EXTINF:-1,MTV_1_1080
-https://hms.pfs.gdn/stream/mtv.m3u8?token=oSrZpDaugVZn6gGpooQqWA:X19YU85FW4NG7nNKnHrdFbneLGBn3BFC9O1GBhaj1Saq1rew7w-ryVFx2j5F-nt61B5Y5PB5EvgrjdM3yifKS_F15VZ_C0_YU4iIt3VDi67GUR5H5QBZ0RlBF5umAH4HTm1I0ARYec7zyQeM_kqvjR5bi4O7fOaXTrLhs3wU-znWaGMT2a4isa2rAVOez9UCPyfVyL0gotKwmoAAVR3XfoJQOqPu54gv95wBzv96d7kS-drbsPJCVdZYrTOA2fZvU8sgJ-eVxUKKO-r_PrU6iA
 
 
 #EXTINF:-1,Amman_Tv1_720
@@ -252,23 +156,12 @@ https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTn
 
 #EXTINF:-1,Roya_Tv_1080
 https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8
-#EXTINF:-1,Roya_Tv_720
-https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
 
 #EXTINF:-1,Wanasah_1080
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
-#EXTINF:-1,Wanasah_720
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
-
-#EXTINF:-1,CN_Ar_720
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-mp4a_128000_eng=3.m3u8
-#EXTINF:-1,CN_En_1080
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-mp4a_128000_eng=4.m3u8
 
 #EXTINF:-1,Spacetoon_1080
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
-#EXTINF:-1,Spacetoon_720
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
 
 #EXTINF:-1,MajidChildren_1080
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
