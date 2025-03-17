@@ -8,11 +8,6 @@ https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
 #EXTINF:-1,Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1,Aljazeera_Docu_1080
-https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
-
-#EXTINF:-1,Nat_Geo_AD_1080
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
 #EXTINF:-1,Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
@@ -165,6 +160,15 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1,MajidChildren_1080
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+
+#EXTINF:-1,Aljazeera_Docu_1080
+https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+
+#EXTINF:-1,Nat_Geo_AD_1080
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+
 
 #EXTINF:-1,ARD_1_1080
 https://mcdn.daserste.de/daserste/de/master.m3u8
