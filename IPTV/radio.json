@@ -25,6 +25,19 @@
     { "name": "Sharjah Quran", "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio" },
     { "name": "Al Minshawy 1", "url": "http://live.mp3quran.net:9826/" },
     { "name": "Al Minshawy 2", "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi" },
+    { "name": "Fares Abbad 1", "url": "http://live.mp3quran.net:9972/" },
+    { "name": "Fares Abbad 2", "url": "https://backup.qurango.net/radio/fares_abbad" },
+    { "name": "Al-Affasy", "url": "https://backup.qurango.net/radio/mishary_alafasi" },
+    { "name": "Al-Qtami 1", "url": "http://live.mp3quran.net:9994/" },
+    { "name": "Al-Qtami 2", "url": "https://backup.qurango.net/radio/nasser_alqatami" },
+    { "name": "Ash-Shatiri 1", "url": "http://live.mp3quran.net:9966/" },
+    { "name": "Ash-Shatiri 2", "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri" },
+    { "name": "Abdul-Basit Abdul-Samad 1", "url": "http://live.mp3quran.net:9980/" },
+    { "name": "Abdul-Basit Abdul-Samad 2", "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad" },
     { "name": "BBC World Service", "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" },
-    { "name": "CNN US", "url": "https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnni/master.m3u8" }
+    { "name": "CNN US", "url": "https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnni/master.m3u8" },
+    { "name": "ABC News AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8" },
+    { "name": "Heart London", "url": "http://media-ice.musicradio.com/HeartLondonMP3" },
+    { "name": "Capital FM London", "url": "https://media-ssl.musicradio.com/Capital" },
+    { "name": "talkRADIO", "url": "https://radio.talkradio.co.uk/stream" }
 ]
