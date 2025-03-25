@@ -10,6 +10,10 @@ https://stream.almadinafm.com/;stream.mp3
 https://stream.zeno.fm/zv3e5wykprhvv
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
 http://45.63.116.205:8000/stream3
+#EXTINF:-1 group-title="Syrian_Radio",RotanaJordan-FM
+http://45.63.116.205:8000/stream
+#EXTINF:-1 group-title="Syrian_Radio",Rotana-FM
+http://radio.linn.co.uk:8000/autodj
 #EXTINF:-1 group-title="Syrian_Radio",Adeem-FM
 http://usa6.fastcast4u.com:5109/live
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
@@ -26,15 +30,22 @@ http://185.4.87.79:8000/stream.mp3
 https://stream.zeno.fm/sq7y5y2z06duv
 #EXTINF:-1 group-title="Syrian_Radio",Emaar-FM 	
 https://stream.zeno.fm/4luag56o066uv
-
-	
+#EXTINF:-1 group-title="Syrian_Radio",Sawt Al Hayat-FM 	
+https://sawtalhayat-rojavaradio.radioca.st/stream
+#EXTINF:-1 group-title="Syrian_Radio",Cassett-Araby	
+https://d2xznwvqlead8u.cloudfront.net/Cassette-Araby_1.m3u8
+#EXTINF:-1 group-title="Syrian_Radio",Nogoum-FM
+https://audio.nrpstream.com/listen/nogoumfm/radio.mp3?refresh=1742862539364
+#EXTINF:-1 group-title="Syrian_Radio",Mazaj-FM
+https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
 #EXTINF:-1 group-title="News_Radio",AlJazeera_ar
 https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8
 #EXTINF:-1 group-title="News_Radio",BBC_AR
 https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
 #EXTINF:-1 group-title="News_Radio",Montecarlo
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
-
+#EXTINF:-1 group-title="News_Radio",Alarabiya
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_1
@@ -85,8 +96,6 @@ https://backup.qurango.net/radio/mahmoud_khalil_alhussary
 http://live.mp3quran.net:9980/;
 #EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad_2
 https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad
-
-
 #EXTINF:-1 group-title="German_Radio",1LIVE_De
 https://wdrhf.akamaized.net/hls/live/2027955/1live/master.m3u8
 #EXTINF:-1 group-title="German_Radio",1LIVE_DIGGI_De
@@ -105,9 +114,6 @@ https://wdrhf.akamaized.net/hls/live/2027997/cosmo/master.m3u8
 https://wdrhf.akamaized.net/hls/live/2028167/diemaus/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_Event_De
 https://wdrhf.akamaized.net/hls/live/2028169/wdrevent/master.m3u8
-
-
-
 #EXTINF:-1 group-title="En_Radio",AlJazeera_En_Radio
 https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_World_Service
