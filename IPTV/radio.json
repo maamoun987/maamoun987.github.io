@@ -75,7 +75,7 @@
   { "name": "CNN us", "url": "https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnni/master.m3u8" },
   { "name": "ABC News AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8" },
   { "name": "ABC Int AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8" },
-  { "name": "Deep Musik", "url": "https://www.youtube.com/watch?v=hIH1joP9_FU&ab_channel=GreenredProductions-RelaxingMusic" },
+  { "name": "Deep Musik1", "url": "https://www.youtube.com/watch?v=hIH1joP9_FU" },
   { "name": "ABC Kids AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterlq.m3u8" },
   { "name": "CBC 1 Canada", "url": "https://cbcradiolive.akamaized.net/hls/live/2040991-b/ES_R1CWP/adaptive_128/chunklist_ao.m3u8" }
 ]
