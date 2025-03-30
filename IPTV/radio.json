@@ -79,31 +79,6 @@
   { "name": "CBC 1 Canada", "url": "https://cbcradiolive.akamaized.net/hls/live/2040991-b/ES_R1CWP/adaptive_128/chunklist_ao.m3u8" },
   { "name": "Study Piano", "url": "https://streams.calmradio.com:27428/stream" },
   { "name": "Intense Study", "url": "https://streams.calmradio.com:27828/stream" },
-  {
-  "name": "test",
-  "url": "https://www.youtube.com/watch?v=hIH1joP9_FU",
-  "type": "youtube"
-  },
-  {
-  "name": "test2",
-  "url": "https://www.youtube.com/live/hIH1joP9_FU",
-  "type": "youtube"
-  },
-  {
-  "name": "test3",
-  "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  "type": "youtube"
-  },	
-  {
-  "name": "test4",
-  "url": "https://youtu.be/jNQXAC9IVRw",
-  "type": "youtube"
-  },
-  {
-  "name": "test5",
-  "url": "https://www.youtube.com/watch?v=oPVte6aMprI",
-  "type": "youtube"
-  },
   { "name": "Positively Focus", "url": "https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio" }
 ]
 

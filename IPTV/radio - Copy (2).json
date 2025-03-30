@@ -6,7 +6,7 @@
   { "name": "RotanaTarab FM", "url": "http://45.63.116.205:8000/stream3" },
   { "name": "RotanaJordan FM", "url": "http://45.63.116.205:8000/stream" },
   { "name": "Rotana FM", "url": "http://radio.linn.co.uk:8000/autodj" },
-  { "name": "Adeem FM", "url": "http://usa6.fastcast4u.com:5109/live" },
+  { "name": "Adeem Classic", "url": "http://usa6.fastcast4u.com:5109/live" },
   { "name": "Farah FM", "url": "http://167.114.3.184:8000/" },
   { "name": "Sada FM", "url": "http://87.98.221.148:14580/;stream.mp3/stream.mp3" },
   { "name": "Swaida FM", "url": "http://swaida.com:9996/" },
@@ -76,5 +76,34 @@
   { "name": "ABC News AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8" },
   { "name": "ABC Int AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8" },
   { "name": "ABC Kids AUS", "url": "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterlq.m3u8" },
-  { "name": "CBC 1 Canada", "url": "https://cbcradiolive.akamaized.net/hls/live/2040991-b/ES_R1CWP/adaptive_128/chunklist_ao.m3u8" }
+  { "name": "CBC 1 Canada", "url": "https://cbcradiolive.akamaized.net/hls/live/2040991-b/ES_R1CWP/adaptive_128/chunklist_ao.m3u8" },
+  { "name": "Study Piano", "url": "https://streams.calmradio.com:27428/stream" },
+  { "name": "Intense Study", "url": "https://streams.calmradio.com:27828/stream" },
+  {
+  "name": "test",
+  "url": "https://www.youtube.com/watch?v=hIH1joP9_FU",
+  "type": "youtube"
+  },
+  {
+  "name": "test2",
+  "url": "https://www.youtube.com/live/hIH1joP9_FU",
+  "type": "youtube"
+  },
+  {
+  "name": "test3",
+  "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "type": "youtube"
+  },	
+  {
+  "name": "test4",
+  "url": "https://youtu.be/jNQXAC9IVRw",
+  "type": "youtube"
+  },
+  {
+  "name": "test5",
+  "url": "https://www.youtube.com/watch?v=oPVte6aMprI",
+  "type": "youtube"
+  },
+  { "name": "Positively Focus", "url": "https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio" }
 ]
+
