@@ -84,5 +84,20 @@
   "url": "https://www.youtube.com/live/hIH1joP9_FU?si=pPDsIhTzlgcr0JIv",
   "type": "youtube"
   },
+  {
+  "name": "test2",
+  "url": "https://www.youtube.com/live/hIH1joP9_FU",
+  "type": "youtube"
+  },
+  {
+  "name": "test3",
+  "url": "https://youtu.be/oPVte6aMprI?si=dZUXHKnmXTAAIPFE",
+  "type": "youtube"
+  },
+  {
+  "name": "test4",
+  "url": "https://www.youtube.com/watch?v=oPVte6aMprI&t=8s&ab_channel=QuietQuest-StudyMusic",
+  "type": "youtube"
+  },
   { "name": "Positively Focus", "url": "https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio" }
 ]
