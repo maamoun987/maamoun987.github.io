@@ -39,10 +39,6 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 #EXTINF:-1,RT_1080
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
-#EXTINF:-1,Tarab_1080
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-
-
 #EXTINF:-1,Rotana_Aflam_1080
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1,Rotana_Cinema_KSA_1080
@@ -53,18 +49,20 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Comedy_1080
 https://rotana.hibridcdn.net/rotana/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Clip_1080
-https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Classic_1080
 https://rotana.hibridcdn.net/rotana/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Drama_1080
 https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Khaleejiya_1080
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,Rotana_Clip_1080
+https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,M+_1080
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
 #EXTINF:-1,Arabica_1080
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
+#EXTINF:-1,Tarab_1080
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_1.m3u8
 
 #EXTINF:-1,Rotana_LBC_1080
 https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
