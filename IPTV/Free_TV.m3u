@@ -36,6 +36,12 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1,AlArabiya_Alhadath_1080
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1,RT_1080
+https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
+
+#EXTINF:-1,Tarab_1080
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
 
 #EXTINF:-1,Rotana_Aflam_1080
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
@@ -53,10 +59,26 @@ https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotana/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Drama_1080
 https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_LBC_1080
-https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Khaleejiya_1080
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,M+_1080
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1,Arabica_1080
+http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
+
+#EXTINF:-1,Rotana_LBC_1080
+https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,MTV_1080
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1,Future_1080
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
+
+#EXTINF:-1,Aflam_1080
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+#EXTINF:-1,Movies_Thriller_1080
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
+#EXTINF:-1,Movies_Action_1080
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
 
 #EXTINF:-1,MBC_1_USA_1080
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8
@@ -77,20 +99,35 @@ https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a6
 #EXTINF:-1,MBC_Iraq_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1,Mbc_Bollywood_1080
-https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1,Mbc_PER_1080
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:-1,Mbc_4_1080
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1,Mbc_5_1080
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1,Mbc_Masr_1080 
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 #EXTINF:-1,Mbc_Masr2_1080 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1,Mbc_Masr_Drama_1080 
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
+#EXTINF:-1,Mbc_Masr_Usa_1080 
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_1.m3u8
 #EXTINF:-1,Wanasah_1080
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
-#EXTINF:-1,Mbc_3_1080
+
+#EXTINF:-1,Mbc_3_KSA_1080
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1,Mbc_3_USA_1080
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_1.m3u8
+#EXTINF:-1,Babyfirst_1080
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1,Roya_Kids_Original_1080
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/0.m3u8
+#EXTINF:-1,Roya_Kids_1080
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
 #EXTINF:-1,Spacetoon_576
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1329537491_b1296000_slAR.m3u8
 #EXTINF:-1,Spacetoon_1080
@@ -113,6 +150,11 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chun
 #EXTINF:-1,Dubai_One_1080 
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1,Oman_1080
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
+#EXTINF:-1,Oman_Cultural_1080
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1,Qatar_1_720
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:-1,Qatar_2_720
@@ -122,12 +164,19 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 #EXTINF:-1,Alrayyan_2_1080
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 
+
+#EXTINF:-1,Roya_Tv_1080
+https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8
+#EXTINF:-1,Roya_Drama_1080
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
+#EXTINF:-1,Roya_Comedy_1080
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
+#EXTINF:-1,Roya_Kitchen_1080
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
 #EXTINF:-1,Amman_Tv1_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1,Amman_Tv2_720
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTnpHhag&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
-#EXTINF:-1,Roya_Tv_1080
-https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8
 
 #EXTINF:-1,Aljazeera_Docu_1080
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
