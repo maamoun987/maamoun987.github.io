@@ -63,6 +63,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
 #EXTINF:-1,Tarab_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_1.m3u8
+#EXTINF:-1,Wanasah_1080
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
 #EXTINF:-1,Rotana_LBC_1080
 https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -112,8 +114,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
 #EXTINF:-1,Mbc_Masr_Usa_1080 
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_1.m3u8
-#EXTINF:-1,Wanasah_1080
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
 
 #EXTINF:-1,Mbc_3_KSA_1080
