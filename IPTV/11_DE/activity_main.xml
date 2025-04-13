@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#121212"
+    android:padding="4dp">
+
+    <!-- شريط العنوان العلوي -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp"
+        app:cardBackgroundColor="#1F1F1F"
+        android:layout_marginBottom="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="8dp">
+
+            <ImageButton
+                android:id="@+id/aboutButton"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/ic_info"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:tint="#FFFFFF"
+                android:contentDescription="حول التطبيق" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="راديو نسمات"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- شريط التشغيل الحالي -->
+    <LinearLayout
+        android:id="@+id/nowPlayingLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#1E1E1E"
+        android:padding="12dp"
+        android:visibility="gone"
+        android:gravity="center_vertical">
+		
+		<ImageButton
+            android:id="@+id/stopButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_stop"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="إيقاف التشغيل"
+            android:tint="#FF5252" />
+        <TextView
+            android:id="@+id/nowPlayingText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:textColor="#E0E0E0"
+            android:ellipsize="end"
+            android:maxLines="1"
+            tools:text="يتم الاستماع الآن إلى: قناة راديو نسمات" />
+
+        
+    </LinearLayout>
+
+    <!-- مؤشر التحميل -->
+    <ProgressBar
+        android:id="@+id/loadingIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+    <!-- حالة عدم وجود قنوات -->
+    <TextView
+        android:id="@+id/emptyView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="لا توجد قنوات متاحة حالياً"
+        android:textColor="#E0E0E0"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:visibility="gone" />
+
+    <!-- قائمة القنوات داخل CardView -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="#1F1F1F"
+        android:padding="8dp">
+
+        <ListView
+            android:id="@+id/radioListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#424242"
+            android:dividerHeight="1dp"
+            android:scrollbars="vertical"
+            android:background="#1F1F1F" />
+			android:textColor="#FFFFFF" <!-- إضافة لون النص الأبيض -->
+			tools:listitem="@android:layout/simple_list_item_1" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- لوحة التحكم السفلية -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="#1F1F1F"
+        android:padding="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <!-- تحكم الصوت -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingBottom="8dp">
+
+                <ImageButton
+                    android:id="@+id/muteButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/ic_volume_up"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:tint="#FFFFFF"
+                    android:contentDescription="كتم الصوت" />
+
+                <SeekBar
+                    android:id="@+id/volumeSeekBar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="100"
+                    android:progress="100" />
+            </LinearLayout>
+
+            <!-- أزرار التحكم الرئيسية -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/updateButton"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:text="تحديث القنوات"
+                    android:textColor="#FFFFFF"
+                    android:backgroundTint="#2196F3"
+                    android:layout_marginEnd="4dp"
+                    style="@style/Widget.AppCompat.Button.Colored" />
+
+                <Button
+                    android:id="@+id/exitButton"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:text="خروج"
+                    android:textColor="#FFFFFF"
+                    android:backgroundTint="#FF5252"
+                    android:layout_marginStart="4dp"
+                    style="@style/Widget.AppCompat.Button.Colored" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>
