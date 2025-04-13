@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nesmat</string>
+    <string name="stop">إيقاف</string>
+    <string name="exit">خروج</string>
+    <string name="channel_icon">أيقونة القناة</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="no_data">لا توجد بيانات</string>
+    <string name="update">تحديث</string>
+    <string name="info">معلومات</string>
+</resources>
