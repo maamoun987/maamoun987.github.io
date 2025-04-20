@@ -1,12 +1,15 @@
 const express = require('express');
-const fetch = require('node-fetch'); // استدعاء مكتبة node-fetch
+const fetch = require('node-fetch'); // استيراد مكتبة node-fetch
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// رابط القناة المحمية
 const PROTECTED_STREAM = "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8";
 
+// إعداد خادم Node.js
 app.get('/stream', async (req, res) => {
     try {
+        // إرسال طلب إلى القناة مع إضافة الهيدر المطلوب
         const response = await fetch(PROTECTED_STREAM, {
             headers: {
                 "Referer": "https://rotana.net/",
@@ -20,7 +23,7 @@ app.get('/stream', async (req, res) => {
         }
 
         const stream = await response.text();
-        res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
+        res.setHeader('Content-Type', 'application/vnd.apple.mpegurl'); // نوع الملف M3U8
         res.send(stream);
     } catch (error) {
         console.error(error);
@@ -28,6 +31,7 @@ app.get('/stream', async (req, res) => {
     }
 });
 
+// تشغيل الخادم
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
