@@ -63,8 +63,7 @@ https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Drama_1080
-#EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-referrer=https://www.rotana.net/
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Khaleejiya_1080
 #EXTVLCOPT:http-referrer=https://rotana.net/
