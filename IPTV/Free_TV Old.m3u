@@ -196,7 +196,7 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTnpHhag&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
 
 #EXTINF:-1,Aljazeera_Docu_1080
-https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1,Nat_Geo_AD_1080
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
