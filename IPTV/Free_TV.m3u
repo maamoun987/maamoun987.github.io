@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,1_Aljazeera_1080
-https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 #EXTINF:-1,1_Aljazeera_720
 https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
+#EXTINF:-1,1_Aljazeera_1080
+https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
+#EXTINF:-1,1_Aljazeera_560
+https://live-hls-aja-ak.getaj.net/AJA-b/03.m3u8
 #EXTINF:-1,Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1,Alaraby_1080
@@ -41,9 +43,8 @@ https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
 
 
-
 #EXTINF:-1,Rotana_Aflam_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1,Rotana_Cinema_KSA_1080
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
@@ -76,7 +77,7 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Rotana_Music_1080
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
 #EXTINF:-1,M+_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
 #EXTINF:-1,Arabica_1080
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Tarab_1080
