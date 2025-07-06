@@ -5,7 +5,7 @@ http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
 http://radioshamfm.grtvstream.com:8400/;stream.nsv
 #EXTINF:-1 group-title="Syrian_Radio",Qalamoun-FM
-http://93.127.134.144:8000/stream
+https://stream.zeno.fm/ptiazztszsktv
 #EXTINF:-1 group-title="Syrian_Radio",Fairouziat-FM
 https://stream.zeno.fm/zv3e5wykprhvv
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
@@ -48,6 +48,8 @@ https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:-1 group-title="News_Radio",Alarabiya
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Islamic_Radio",Qalamoun_Quran
+https://stream-172.zeno.fm/fcothizcigbvv
 #EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_1

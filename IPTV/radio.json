@@ -1,7 +1,7 @@
 [
   { "name": "Ninar FM", "url": "http://ninarfm.grtvstream.com:8896/stream", "category": "موسيقى عربية" },
   { "name": "Sham FM", "url": "http://radioshamfm.grtvstream.com:8400/;stream.nsv", "category": "موسيقى عربية" },
-  { "name": "Qalamoun FM", "url": "http://93.127.134.144:8000/stream", "category": "موسيقى عربية" },
+  { "name": "Qalamoun FM", "url": "https://stream.zeno.fm/ptiazztszsktv", "category": "موسيقى عربية" },
   { "name": "Fairouziat FM", "url": "https://stream.zeno.fm/zv3e5wykprhvv", "category": "موسيقى عربية" },
   { "name": "RotanaTarab FM", "url": "http://45.63.116.205:8000/stream3", "category": "موسيقى عربية" },
   { "name": "RotanaJordan FM", "url": "http://45.63.116.205:8000/stream", "category": "موسيقى عربية" },
@@ -23,6 +23,7 @@
   { "name": "AlJazeera Arabic", "url": "https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8", "category": "أخبار عربية" },
   { "name": "Montecarlo", "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3", "category": "أخبار عربية" },
   { "name": "Alarabiya", "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8", "category": "أخبار عربية" },
+  { "name": "Qalamoun Quran", "url": "https://stream-172.zeno.fm/fcothizcigbvv", "category": "قرآن كريم" },
   { "name": "Sharjah Quran", "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio", "category": "قرآن كريم" },
   { "name": "Al-Minshawy 1", "url": "http://live.mp3quran.net:9826/;", "category": "قرآن كريم" },
   { "name": "Al-Minshawy 2", "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi", "category": "قرآن كريم" },
