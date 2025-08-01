@@ -7,7 +7,7 @@
   { "name": "RotanaJordan FM", "url": "http://45.63.116.205:8000/stream", "category": "موسيقى عربية" },
   { "name": "Rotana FM", "url": "http://radio.linn.co.uk:8000/autodj", "category": "موسيقى عربية" },
   { "name": "Adeem Classic", "url": "http://usa6.fastcast4u.com:5109/live", "category": "موسيقى عربية" },
-  { "name": "Farah FM", "url": "http://167.114.3.184:8000/", "category": "موسيقى عربية" },
+  { "name": "Farah FM", "url": "https://radio.farah.fm/?type=http", "category": "موسيقى عربية" },
   { "name": "Sada FM", "url": "http://87.98.221.148:14580/;stream.mp3/stream.mp3", "category": "موسيقى عربية" },
   { "name": "Nasaem FM", "url": "https://stream-176.zeno.fm/u1wbm3k7gxquv", "category": "موسيقى عربية" },
   { "name": "Rayan FM", "url": "https://stream.zeno.fm/fbhyqgivbgnvv", "category": "موسيقى عربية" },  

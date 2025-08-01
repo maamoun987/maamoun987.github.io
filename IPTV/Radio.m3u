@@ -17,7 +17,7 @@ http://radio.linn.co.uk:8000/autodj
 #EXTINF:-1 group-title="Syrian_Radio",Adeem-FM
 http://usa6.fastcast4u.com:5109/live
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
-http://167.114.3.184:8000/
+https://radio.farah.fm/?type=http
 #EXTINF:-1 group-title="Syrian_Radio",Sada-FM
 http://87.98.221.148:14580/;stream.mp3/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Nasaem-FM
