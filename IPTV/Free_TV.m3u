@@ -94,7 +94,7 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1,Future_1080
 https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
 #EXTINF:-1,AlJadeed_1080
-http://154.58.202.185:8000/play/a00s
+http://185.9.2.18/chid_391/mono.m3u8
 
 #EXTINF:-1,Aflam_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
@@ -130,7 +130,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e9
 #EXTINF:-1,Mbc_5_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1,Mbc_Masr_1080 
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 #EXTINF:-1,Mbc_Masr2_1080 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
