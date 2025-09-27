@@ -19,7 +19,7 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 #EXTINF:-1,Lana
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1,Almashhad_1080
-https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+https://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/playlist-hls.m3u8
 #EXTINF:-1,SkyNews_AR_720
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1,Dw_AR_1080
@@ -40,7 +40,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:-1,RT_1080
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
-
 
 
 #EXTINF:-1,Rotana_Aflam_1080
