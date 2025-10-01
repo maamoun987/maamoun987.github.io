@@ -9,9 +9,9 @@ https://live-hls-aja-ak.getaj.net/AJA-b/03.m3u8
 #EXTINF:-1,Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1,Alaraby_1080
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8
 #EXTINF:-1,Alaraby_2_1080
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
 #EXTINF:-1,SyriaTv_1_1080
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
 #EXTINF:-1,SyriaTv_2_1080
@@ -196,7 +196,7 @@ https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTn
 #EXTINF:-1,Aljazeera_Docu_1080
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 #EXTINF:-1,Nat_Geo_AD_1080
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
 #EXTINF:-1,ARD_1_1080
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
