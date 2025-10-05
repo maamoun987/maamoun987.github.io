@@ -4,8 +4,6 @@
 http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
 http://radioshamfm.grtvstream.com:8400/;stream.nsv
-#EXTINF:-1 group-title="Syrian_Radio",Qalamoun-FM
-https://stream.zeno.fm/ptiazztszsktv
 #EXTINF:-1 group-title="Syrian_Radio",Fairouziat-FM
 https://stream.zeno.fm/zv3e5wykprhvv
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
