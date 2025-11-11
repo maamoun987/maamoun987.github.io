@@ -11,7 +11,7 @@ http://45.63.116.205:8000/stream3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaJordan-FM
 http://45.63.116.205:8000/stream
 #EXTINF:-1 group-title="Syrian_Radio",Rotana-FM
-http://radio.linn.co.uk:8000/autodj
+https://rotanafm128.radioca.st/;:80/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Adeem-FM
 http://usa6.fastcast4u.com:5109/live
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
@@ -21,17 +21,13 @@ http://87.98.221.148:14580/;stream.mp3/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Nasaem-FM
 https://stream-176.zeno.fm/u1wbm3k7gxquv
 #EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
-https://stream.zeno.fm/fbhyqgivbgnvv
-#EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
-http://swaida.com:9996/
-#EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
-http://192.95.23.89:4986/;stream.mp3
+https://broadcast.shoutstream.co.uk:8078/stream
+#EXTINF:-1 group-title="Syrian_Radio",Emaar_FM
+https://stream.zeno.fm/4luag56o066uv
 #EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
 http://185.4.87.79:8000/stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Rozana-FM
 https://stream.zeno.fm/sq7y5y2z06duv
-#EXTINF:-1 group-title="Syrian_Radio",Emaar-FM 	
-https://stream.zeno.fm/4luag56o066uv
 #EXTINF:-1 group-title="Syrian_Radio",Sawt Al Hayat-FM 	
 https://sawtalhayat-rojavaradio.radioca.st/stream
 #EXTINF:-1 group-title="Syrian_Radio",Cassett-Araby	
