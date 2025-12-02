@@ -197,6 +197,8 @@ https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTn
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 #EXTINF:-1,Nat_Geo_AD_1080
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1,Nat_Geo_AD_720
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
 
 #EXTINF:-1,ARD_1_1080
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
