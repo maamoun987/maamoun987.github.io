@@ -18,7 +18,9 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1,Lana
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1,Almashhad_1080
+#EXTINF:-1,SYRIA ONE
+https://live.syriaone.tv/live/syriaone.m3u8
+#EXTINF:-1,Almashhad_1080	
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/playlist-hls-dvr.m3u8
 #EXTINF:-1,SkyNews_AR_720
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -33,7 +35,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persi
 #EXTINF:-1,AlMayadeen_540
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1,AlSharq_1080
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_0/chunklist.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1,AlArabiya_1080
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1,AlArabiya_Alhadath_1080
@@ -43,7 +45,9 @@ https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
 
 #EXTINF:-1,Rotana_Aflam_1080
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1,Rotana_Aflam_1080
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
 #EXTINF:-1,Rotana_Cinema_KSA_1080
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
@@ -76,18 +80,19 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,M+_1080
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 #EXTINF:-1,Arabica_1080
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Tarab_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1,Wanasah_1080
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1,Rotana_LBC_1080
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,LBC INT
+http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1,MTV_1080
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1,Future_1080
@@ -110,6 +115,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 #EXTINF:-1,MBC_1_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+#EXTINF:-1,MBC 2 FHD
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118833.m3u8
 #EXTINF:-1,MBC_Drama_EGY_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
 #EXTINF:-1,MBC_Drama_KSA_1080
@@ -122,6 +130,17 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1,Mbc_Bollywood_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1,B4U Aflam HD
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118861.m3u8
+#EXTINF:-1,Zee Aflam HD
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118862.m3u8
+#EXTINF:-1,Zee Aflam HD
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118863.m3u8
+#EXTINF:-1,Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1,FATAFEAT
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118864.m3u8
+
 #EXTINF:-1,Mbc_PER_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1,Mbc_4_1080
@@ -136,7 +155,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 #EXTINF:-1,Mbc_3_KSA_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1,Rotana_Kids_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1,Babyfirst_1080
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1,Roya_Kids_Original_1080
