@@ -2,6 +2,7 @@
   { "name": "Ninar FM", "url": "http://ninarfm.grtvstream.com:8896/stream", "category": "موسيقى عربية" },
   { "name": "Sham FM", "url": "http://radioshamfm.grtvstream.com:8400/;stream.nsv", "category": "موسيقى عربية" },
   { "name": "Fairouziat FM", "url": "https://stream.zeno.fm/zv3e5wykprhvv", "category": "موسيقى عربية" },
+  { "name": "Tarab FM", "url": "https://stream.zeno.fm/fy8achbq97zuv", "category": "موسيقى عربية" }, 
   { "name": "RotanaTarab FM", "url": "http://45.63.116.205:8000/stream3", "category": "موسيقى عربية" },
   { "name": "RotanaJordan FM", "url": "http://45.63.116.205:8000/stream", "category": "موسيقى عربية" },
   { "name": "Rotana FM", "url": "https://rotanafm128.radioca.st/;:80/;stream.mp3", "category": "موسيقى عربية" },

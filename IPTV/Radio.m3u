@@ -6,6 +6,8 @@ http://ninarfm.grtvstream.com:8896/stream
 http://radioshamfm.grtvstream.com:8400/;stream.nsv
 #EXTINF:-1 group-title="Syrian_Radio",Fairouziat-FM
 https://stream.zeno.fm/zv3e5wykprhvv
+#EXTINF:-1 group-title="Syrian_Radio",Tarab-FM
+https://stream.zeno.fm/fy8achbq97zuv
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
 http://45.63.116.205:8000/stream3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaJordan-FM
