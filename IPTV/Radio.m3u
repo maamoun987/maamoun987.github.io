@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Syrian_Radio",Cassett-Araby	
+https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
 http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
@@ -32,8 +34,6 @@ http://185.4.87.79:8000/stream.mp3
 https://stream.zeno.fm/sq7y5y2z06duv
 #EXTINF:-1 group-title="Syrian_Radio",Sawt Al Hayat-FM 	
 https://sawtalhayat-rojavaradio.radioca.st/stream
-#EXTINF:-1 group-title="Syrian_Radio",Cassett-Araby	
-https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Nogoum_Mix-FM
 https://stream.zeno.fm/qb1zvsykm98uv
 #EXTINF:-1 group-title="Syrian_Radio",Mazaj-FM

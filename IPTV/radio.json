@@ -1,4 +1,5 @@
 [
+  { "name": "Cassett Araby", "url": "https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8", "category": "موسيقى عربية" },
   { "name": "Ninar FM", "url": "http://ninarfm.grtvstream.com:8896/stream", "category": "موسيقى عربية" },
   { "name": "Sham FM", "url": "https://radioshamfm.grtvstream.com:8400/stream", "category": "موسيقى عربية" },
   { "name": "Fairouziat FM", "url": "https://stream.zeno.fm/zv3e5wykprhvv", "category": "موسيقى عربية" },
@@ -15,7 +16,6 @@
   { "name": "Arabesque FM", "url": "http://185.4.87.79:8000/stream.mp3", "category": "موسيقى عربية" },
   { "name": "Rozana FM", "url": "https://stream.zeno.fm/sq7y5y2z06duv", "category": "موسيقى عربية" },
   { "name": "Sawt Al Hayat FM", "url": "https://sawtalhayat-rojavaradio.radioca.st/stream", "category": "موسيقى عربية" },
-  { "name": "Cassett Araby", "url": "https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8", "category": "موسيقى عربية" },
   { "name": "Nogoum Mix FM", "url": "https://stream.zeno.fm/qb1zvsykm98uv", "category": "موسيقى عربية" },
   { "name": "Mazaj FM", "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3", "category": "موسيقى عربية" },
   { "name": "AlJazeera Arabic", "url": "https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8", "category": "أخبار عربية" },
