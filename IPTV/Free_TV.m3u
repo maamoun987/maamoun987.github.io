@@ -44,10 +44,11 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
 
+
+
 #EXTINF:-1,Rotana_Aflam_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1,Rotana_Aflam_1080
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=sU-keyuh83m
 #EXTINF:-1,Rotana_Cinema_KSA_1080
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
@@ -79,8 +80,9 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,M+_1080
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
+#EXTINF:-1,MPlus_1080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=99_Baju
 #EXTINF:-1,Arabica_1080
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Tarab_1080
@@ -162,10 +164,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/0.m3u8
 #EXTINF:-1,Roya_Kids_1080
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
-#EXTINF:-1,Spacetoon_576
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1329537491_b1296000_slAR.m3u8
 #EXTINF:-1,Spacetoon_1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1,Spacetoon_1080
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index
+
 #EXTINF:-1,MajidChildren_1080
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 
