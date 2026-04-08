@@ -8,6 +8,9 @@ https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 https://live-hls-aja-ak.getaj.net/AJA-b/03.m3u8
 #EXTINF:-1,Aljazeera_En_720
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
+#EXTINF:-1,Almayadeen_560
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2700000.m3u8
+
 #EXTINF:-1,Alaraby_1080
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
 #EXTINF:-1,Alaraby_2_1080
@@ -20,6 +23,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1,SYRIA ONE
 https://live.syriaone.tv/live/syriaone.m3u8
+#EXTINF:-1,Syrian Satellite Channel
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1,Almashhad_1080	
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/playlist-hls-dvr.m3u8
 #EXTINF:-1,SkyNews_AR_720
@@ -103,7 +108,7 @@ https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/ch
 http://185.9.2.18/chid_391/mono.m3u8
 
 #EXTINF:-1,Aflam_1080
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_10.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
 #EXTINF:-1,Movies_Thriller_1080
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
 #EXTINF:-1,Movies_Action_1080
@@ -174,6 +179,8 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 
 #EXTINF:-1,Abu_Dhabi_1080
+https://admn-fast-mpd-tk.starzplayarabia.com/tm/2175a7946e79ae4a0346d2f7e7a99e65769b1cae/b6fc2e8b-6af0-40eb-809a-6c4c6811/asset_audio_128_0_000000004.mp4
+https://admn-fast-mpd-tk.starzplayarabia.com/v1/dash/2175a7946e79ae4a0346d2f7e7a99e65769b1cae/ADMN-LIVE-DASH-TK/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash/index.m3u8
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1,AlEmarat_1080
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
