@@ -2,6 +2,7 @@
   { "name": "Cassett Araby", "url": "https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8", "category": "موسيقى عربية" },
   { "name": "Ninar FM", "url": "http://ninarfm.grtvstream.com:8896/stream", "category": "موسيقى عربية" },
   { "name": "Sham FM", "url": "https://radioshamfm.grtvstream.com:8400", "category": "موسيقى عربية" },
+  { "name": "Sham FM2", "url": "https://c.fm.sy/sham", "category": "موسيقى عربية" },
   { "name": "Fairouziat FM", "url": "https://stream.zeno.fm/zv3e5wykprhvv", "category": "موسيقى عربية" },
   { "name": "Tarab FM", "url": "https://stream.zeno.fm/fy8achbq97zuv", "category": "موسيقى عربية" }, 
   { "name": "RotanaTarab FM", "url": "http://45.63.116.205:8000/stream3", "category": "موسيقى عربية" },
