@@ -189,14 +189,13 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b45000
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,Qatar_1_720
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_04/index.m3u8
 #EXTINF:-1,Qatar_2_720
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/stream_04/index.m3u8
 #EXTINF:-1,Alrayyan
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/livep/chunks_dvr.m3u8
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
 #EXTINF:-1,Alrayyan_2
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/livep/chunks_dvr.m3u8
-
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 
 #EXTINF:-1,Roya_Tv
 https://royatv-live.daioncdn.net/royatv/royatvp.m3u8
