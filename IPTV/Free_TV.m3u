@@ -39,9 +39,11 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persi
 #EXTINF:-1,AlSharq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1,AlArabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiyap/chunks.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1,AlArabiya_Alhadath
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadathp/chunks.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1,AlArabiya_Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_source/chunks.m3u8
 #EXTINF:-1,RT
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
