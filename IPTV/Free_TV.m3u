@@ -82,7 +82,7 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Arabica
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
 #EXTINF:-1,Tarab
 https://shd-amg-fast.edgenextcdn.net/tx002/1080p-d/index.m3u8
 #EXTINF:-1,MBC-Mood
@@ -147,10 +147,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1,Zee alwan HD
 http://103.211.103.238/live/play/VVRkbmJsRklaSFoyZDBkR1EySnhUSEJJZEdSMVIyeHRObU5UVVROQlVYaG9ibUpTTUhvM1lqUlZSVDA9/2900
 #EXTINF:-1,Zee Aflam HD
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/118863.m3u8
+http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1,Mix Hollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-
+http://41.223.30.230/ZEEALWAN/index.m3u8
 
 #EXTINF:-1,Mbc_3_KSA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
@@ -171,7 +170,7 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 
 #EXTINF:-1,Abu_Dhabi
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
+http://185.9.2.18/chid_326/index.m3u8
 #EXTINF:-1,AlEmarat
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1,Baynounah
