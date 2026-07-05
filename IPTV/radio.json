@@ -1,5 +1,7 @@
 [
   { "name": "Cassett Araby", "url": "https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8", "category": "موسيقى عربية" },
+  { "name": "Cassett Khaleejiya", "url": "https://radio-moodfm.mbc.net/radio-moodfm_1.m3u8", "category": "موسيقى عربية" },
+  { "name": "MBC_Mood", "url": "https://shd-gcp-live-alt.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/manifest/audio1/192kbps/audio.m3u8", "category": "موسيقى عربية" },
   { "name": "Ninar FM", "url": "http://ninarfm.grtvstream.com:8896/stream", "category": "موسيقى عربية" },
   { "name": "Sham FM", "url": "https://radioshamfm.grtvstream.com:8400", "category": "موسيقى عربية" },
   { "name": "Sham FM2", "url": "https://c.fm.sy/sham", "category": "موسيقى عربية" },

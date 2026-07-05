@@ -2,10 +2,14 @@
 
 #EXTINF:-1 group-title="Syrian_Radio",Cassett-Araby	
 https://radio-cassette-araby.mbc.net/radio-cassette-araby_1.m3u8
+#EXTINF:-1 group-title="Syrian_Radio",Cassett-Khaleejiya	
+https://radio-moodfm.mbc.net/radio-moodfm_1.m3u8
+#EXTINF:-1 group-title="Syrian_Radio",MBC_Mood	
+https://shd-gcp-live-alt.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/manifest/audio1/192kbps/audio.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
 http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
-https://radioshamfm.grtvstream.com:8400
+https://c.fm.sy/sham
 #EXTINF:-1 group-title="Syrian_Radio",Fairouziat-FM
 https://stream.zeno.fm/zv3e5wykprhvv
 #EXTINF:-1 group-title="Syrian_Radio",Tarab-FM
