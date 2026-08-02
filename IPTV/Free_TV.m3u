@@ -176,14 +176,16 @@ http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1,Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-1,Roya_Tv
-https://royatv-live.daioncdn.net/royatv/royatvp.m3u8
 #EXTINF:-1,Roya_Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
 #EXTINF:-1,Roya_Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
 #EXTINF:-1,Roya_Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
+#EXTINF:-1,Roya_AymanZaydan
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist/0.m3u8
+#EXTINF:-1,Roya_AlZaem
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
 #EXTINF:-1,Amman_Tv1_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1,Amman_Tv2_720

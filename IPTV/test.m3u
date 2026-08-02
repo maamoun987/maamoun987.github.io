@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,Roya TV
+#EXTVLCOPT:http-referrer=https://www.elahmad.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.kwikmotion.com/royatvlive/royatv.smil/playlist.m3u8
+https://tgn.bozztv.com/gin-36bay4/gin-abudhabitv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1738674262&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjYgMTI6MjM6NDkgUE0maGFzaF92YWx1ZT1IWXErSEdmL1RRRHFrcUtsZkJ1dmx3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
