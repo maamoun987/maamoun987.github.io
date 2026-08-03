@@ -1,270 +1,270 @@
 #EXTM3U
 
-#EXTINF:-1,1_Aljazeera_1
+#EXTINF:-1 tvg-id="1.aljazeera.1",1_Aljazeera_1
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1,1_Aljazeera_2
+#EXTINF:-1 tvg-id="1.aljazeera.2",1_Aljazeera_2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
-#EXTINF:-1,1_Aljazeera_Mubasher
+#EXTINF:-1 tvg-id="1.aljazeera.mubasher",1_Aljazeera_Mubasher
 https://live-hls-web-ajm-bp.thehlive.com/AJM/01.m3u8
-#EXTINF:-1,Aljazeera_En
+#EXTINF:-1 tvg-id="aljazeera.en",Aljazeera_En
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Almayadeen_560
+#EXTINF:-1 tvg-id="almayadeen.560",Almayadeen_560
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2700000.m3u8
-#EXTINF:-1,France_24
+#EXTINF:-1 tvg-id="france.24",France_24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1,Alaraby
+#EXTINF:-1 tvg-id="alaraby",Alaraby
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
-#EXTINF:-1,Alaraby_2
+#EXTINF:-1 tvg-id="alaraby.2",Alaraby_2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
-#EXTINF:-1,SyriaTv_1
+#EXTINF:-1 tvg-id="syriatv.1",SyriaTv_1
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
-#EXTINF:-1,SyriaTv_2
+#EXTINF:-1 tvg-id="syriatv.2",SyriaTv_2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
-#EXTINF:-1,Lana
+#EXTINF:-1 tvg-id="lana",Lana
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1,SYRIA_ONE
+#EXTINF:-1 tvg-id="syria.one",SYRIA_ONE
 https://live.syriaone.tv/live/syriaone.m3u8
-#EXTINF:-1,Halab_Today
+#EXTINF:-1 tvg-id="halab.today",Halab_Today
 https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
-#EXTINF:-1,Prime_Sy
+#EXTINF:-1 tvg-id="prime.sy",Prime_Sy
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
-#EXTINF:-1,AlSouriya
+#EXTINF:-1 tvg-id="alsouriya",AlSouriya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
-#EXTINF:-1,Maraya
+#EXTINF:-1 tvg-id="maraya",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
-#EXTINF:-1,AlikhbariaSyria.sy
+#EXTINF:-1 tvg-id="alikhbariasyria.sy",AlikhbariaSyria.sy
 http://185.9.2.18/chid_423/index.m3u8
-#EXTINF:-1,Almashhad	
+#EXTINF:-1 tvg-id="almashhad",Almashhad
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/playlist-hls-dvr.m3u8
-#EXTINF:-1,SkyNews_AR
+#EXTINF:-1 tvg-id="skynews.ar",SkyNews_AR
 https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1,Dw_AR
+#EXTINF:-1 tvg-id="dw.ar",Dw_AR
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-#EXTINF:-1,Dw_En_720
+#EXTINF:-1 tvg-id="dw.en.720",Dw_En_720
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1,BBC_AR_720
+#EXTINF:-1 tvg-id="bbc.ar.720",BBC_AR_720
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1,BBC_Per_720
+#EXTINF:-1 tvg-id="bbc.per.720",BBC_Per_720
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1,AlSharq
+#EXTINF:-1 tvg-id="alsharq",AlSharq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
-#EXTINF:-1,AlArabiya
+#EXTINF:-1 tvg-id="alarabiya",AlArabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:-1,AlArabiya_Alhadath
+#EXTINF:-1 tvg-id="alarabiya.alhadath",AlArabiya_Alhadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1,AlArabiya_Programs
+#EXTINF:-1 tvg-id="alarabiya.programs",AlArabiya_Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_source/chunks.m3u8
-#EXTINF:-1,RT
+#EXTINF:-1 tvg-id="rt",RT
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
-#EXTINF:-1,iFilm_Ar
+#EXTINF:-1 tvg-id="ifilm.ar",iFilm_Ar
 https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:-1,Aflam
+#EXTINF:-1 tvg-id="aflam",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
-#EXTINF:-1,Movies_Thriller
+#EXTINF:-1 tvg-id="movies.thriller",Movies_Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8
-#EXTINF:-1,Movies_Action
+#EXTINF:-1 tvg-id="movies.action",Movies_Action
 https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
-#EXTINF:-1,Rotana_Aflam
+#EXTINF:-1 tvg-id="rotana.aflam",Rotana_Aflam
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1,Rotana_Cinema_KSA
+#EXTINF:-1 tvg-id="rotana.cinema.ksa",Rotana_Cinema_KSA
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Cinema_Egy
+#EXTINF:-1 tvg-id="rotana.cinema.egy",Rotana_Cinema_Egy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Comedy
+#EXTINF:-1 tvg-id="rotana.comedy",Rotana_Comedy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Classic
+#EXTINF:-1 tvg-id="rotana.classic",Rotana_Classic
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Drama
+#EXTINF:-1 tvg-id="rotana.drama",Rotana_Drama
 #EXTVLCOPT:http-referrer=https://www.rotana.net/
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Khaleejiya
+#EXTINF:-1 tvg-id="rotana.khaleejiya",Rotana_Khaleejiya
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Clip
+#EXTINF:-1 tvg-id="rotana.clip",Rotana_Clip
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana_Music
+#EXTINF:-1 tvg-id="rotana.music",Rotana_Music
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Rotana Radio Jordan Studio
+#EXTINF:-1 tvg-id="rotana.radio.jordan.studio",Rotana_Radio_Jordan_Studio
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1,Rotana Tarab Jordan City View
+#EXTINF:-1 tvg-id="rotana.tarab.jordan.city.view",Rotana_Tarab_Jordan_City_View
 http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1,Arabica
+#EXTINF:-1 tvg-id="arabica",Arabica
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
-#EXTINF:-1,Tarab
+#EXTINF:-1 tvg-id="tarab",Tarab
 https://shd-amg-fast.edgenextcdn.net/tx002/1080p-d/index.m3u8
-#EXTINF:-1,MBC-Mood
+#EXTINF:-1 tvg-id="mbc.mood",MBC-Mood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-#EXTINF:-1,Fayroz
+#EXTINF:-1 tvg-id="fayroz",Fayroz
 https://shd-amg-fast.edgenextcdn.net/tx029/1080p-d/index.m3u8
-#EXTINF:-1,Big_Time_Plus
+#EXTINF:-1 tvg-id="big.time.plus",Big_Time_Plus
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
-#EXTINF:-1,AghaniAghaniTV.lb
+#EXTINF:-1 tvg-id="aghaniaghanitv.lb",AghaniAghaniTV.lb
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
-#EXTINF:-1,Mazzika
+#EXTINF:-1 tvg-id="mazzika",Mazzika
 http://149.100.11.235:8080/Mazzika/index.m3u8
-#EXTINF:-1,One_TV
+#EXTINF:-1 tvg-id="one.tv",One_TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1,Watar
+#EXTINF:-1 tvg-id="watar",Watar
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 
-#EXTINF:-1,AlJadeed
+#EXTINF:-1 tvg-id="aljadeed",AlJadeed
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1,Rotana_LBC
+#EXTINF:-1 tvg-id="rotana.lbc",Rotana_LBC
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,LBC INT
+#EXTINF:-1 tvg-id="lbc.int",LBC_INT
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-id="mtv.1",MTV_1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1,MTV"
+#EXTINF:-1 tvg-id="mtv.2",MTV_2
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
-#EXTINF:-1,Future
+#EXTINF:-1 tvg-id="future",Future
 https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
-#EXTINF:-1,OTV
+#EXTINF:-1 tvg-id="otv",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 
-#EXTINF:-1,MBC_1
+#EXTINF:-1 tvg-id="mbc.1",MBC_1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1,MBC_1_Egypt
+#EXTINF:-1 tvg-id="mbc.1.egypt",MBC_1_Egypt
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1,MBC_1_USA
+#EXTINF:-1 tvg-id="mbc.1.usa",MBC_1_USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 
-#EXTINF:-1,MBC_2
+#EXTINF:-1 tvg-id="mbc.2",MBC_2
 http://185.9.2.18/chid_375/mono.m3u8
-#EXTINF:-1,MBC_Drama
+#EXTINF:-1 tvg-id="mbc.drama",MBC_Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1,MBC_Drama_USA
+#EXTINF:-1 tvg-id="mbc.drama.usa",MBC_Drama_USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1,MBC_Drama_Masr
+#EXTINF:-1 tvg-id="mbc.drama.masr",MBC_Drama_Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1,MBC_Drama_Plus
+#EXTINF:-1 tvg-id="mbc.drama.plus",MBC_Drama_Plus
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1,MBC_Iraq
+#EXTINF:-1 tvg-id="mbc.iraq",MBC_Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1,Mbc_PER
+#EXTINF:-1 tvg-id="mbc.per",Mbc_PER
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1,Mbc_4
+#EXTINF:-1 tvg-id="mbc.4",Mbc_4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1,Mbc_5
+#EXTINF:-1 tvg-id="mbc.5",Mbc_5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1,Mbc_Masr 
+#EXTINF:-1 tvg-id="mbc.masr",Mbc_Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1,Mbc_Masr2 
+#EXTINF:-1 tvg-id="mbc.masr2",Mbc_Masr2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1,Mbc_Bollywood
+#EXTINF:-1 tvg-id="mbc.bollywood",Mbc_Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1,Zee alwan HD
+#EXTINF:-1 tvg-id="zee.alwan.hd",Zee_alwan_HD
 http://103.211.103.238/live/play/VVRkbmJsRklaSFoyZDBkR1EySnhUSEJJZEdSMVIyeHRObU5UVVROQlVYaG9ibUpTTUhvM1lqUlZSVDA9/2900
-#EXTINF:-1,Zee Aflam HD
+#EXTINF:-1 tvg-id="zee.aflam.hd",Zee_Aflam_HD
 http://41.223.30.230/ZEEAFLAM/index.m3u8
-#EXTINF:-1,Mix Hollywood
+#EXTINF:-1 tvg-id="mix.hollywood",Mix_Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-1,Roya_Drama
+#EXTINF:-1 tvg-id="roya.drama",Roya_Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
-#EXTINF:-1,Roya_Comedy
+#EXTINF:-1 tvg-id="roya.comedy",Roya_Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
-#EXTINF:-1,Roya_Kitchen
+#EXTINF:-1 tvg-id="roya.kitchen",Roya_Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
-#EXTINF:-1,Roya_AymanZaydan
+#EXTINF:-1 tvg-id="roya.aymanzaydan",Roya_AymanZaydan
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist/0.m3u8
-#EXTINF:-1,Roya_AlZaem
+#EXTINF:-1 tvg-id="roya.alzaem",Roya_AlZaem
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
-#EXTINF:-1,Amman_Tv1_720
+#EXTINF:-1 tvg-id="amman.tv1.720",Amman_Tv1_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
-#EXTINF:-1,Amman_Tv2_720
+#EXTINF:-1 tvg-id="amman.tv2.720",Amman_Tv2_720
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=LZKoW60pk0es4cnTnpHhag&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
 
-#EXTINF:-1,Mbc_3_KSA
+#EXTINF:-1 tvg-id="mbc.3.ksa",Mbc_3_KSA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1,Rotana_Kids
+#EXTINF:-1 tvg-id="rotana.kids",Rotana_Kids
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1,Roya_Kids_Original
+#EXTINF:-1 tvg-id="roya.kids.original",Roya_Kids_Original
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/0.m3u8
-#EXTINF:-1,Roya_Kids
+#EXTINF:-1 tvg-id="roya.kids",Roya_Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
-#EXTINF:-1,Spacetoon
+#EXTINF:-1 tvg-id="spacetoon.1",Spacetoon_1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1,Spacetoon
+#EXTINF:-1 tvg-id="spacetoon.2",Spacetoon_2
 #EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u
 
-#EXTINF:-1,Dubai
+#EXTINF:-1 tvg-id="dubai",Dubai
 http://185.9.2.18/chid_139/index.m3u8
 
-#EXTINF:-1,Oman
+#EXTINF:-1 tvg-id="oman",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
-#EXTINF:-1,Oman_Cultural
+#EXTINF:-1 tvg-id="oman.cultural",Oman_Cultural
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1,Qatar_1
+#EXTINF:-1 tvg-id="qatar.1",Qatar_1
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_04/index.m3u8
-#EXTINF:-1,Qatar_2
+#EXTINF:-1 tvg-id="qatar.2",Qatar_2
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/stream_04/index.m3u8
-#EXTINF:-1,Alrayyan
+#EXTINF:-1 tvg-id="alrayyan",Alrayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
-#EXTINF:-1,Alrayyan_2
+#EXTINF:-1 tvg-id="alrayyan.2",Alrayyan_2
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 
 
-#EXTINF:-1,Aljazeera_Docu
+#EXTINF:-1 tvg-id="aljazeera.docu",Aljazeera_Docu
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
-#EXTINF:-1,Nat_Geo_AD
+#EXTINF:-1 tvg-id="nat.geo.ad",Nat_Geo_AD
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1,Nat_Geo_AD_720
+#EXTINF:-1 tvg-id="nat.geo.ad.720",Nat_Geo_AD_720
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
 
-#EXTINF:-1,ARD_1
+#EXTINF:-1 tvg-id="ard.1",ARD_1
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1,ARD_tagesschau24
+#EXTINF:-1 tvg-id="ard.tagesschau24",ARD_tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1,BR
+#EXTINF:-1 tvg-id="br",BR
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1,HR
+#EXTINF:-1 tvg-id="hr",HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1,MDR_Sachsen
+#EXTINF:-1 tvg-id="mdr.sachsen",MDR_Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1,NDR
+#EXTINF:-1 tvg-id="ndr",NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1,rbb
+#EXTINF:-1 tvg-id="rbb",rbb
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1,SR
+#EXTINF:-1 tvg-id="sr",SR
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
-#EXTINF:-1,SWR
+#EXTINF:-1 tvg-id="swr",SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
-#EXTINF:-1,WDR
+#EXTINF:-1 tvg-id="wdr",WDR
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1,One
+#EXTINF:-1 tvg-id="one",One
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1,arte
+#EXTINF:-1 tvg-id="arte",arte
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1,KiKA
+#EXTINF:-1 tvg-id="kika",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1,alpha
+#EXTINF:-1 tvg-id="alpha",alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1,ZDF_info
+#EXTINF:-1 tvg-id="zdf.info",ZDF_info
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1,ZDF
+#EXTINF:-1 tvg-id="zdf",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1,ZDF_neo
+#EXTINF:-1 tvg-id="zdf.neo",ZDF_neo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1,3sat
+#EXTINF:-1 tvg-id="3sat",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1,Phoenix
+#EXTINF:-1 tvg-id="phoenix",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
