@@ -22,8 +22,6 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-id="lana",Lana
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1 tvg-id="syria.one",SYRIA_ONE
-https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-id="halab.today",Halab_Today
 https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="prime.sy",Prime_Sy
