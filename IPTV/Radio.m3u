@@ -116,6 +116,75 @@ https://wdrhf.akamaized.net/hls/live/2027997/cosmo/master.m3u8
 https://wdrhf.akamaized.net/hls/live/2028167/diemaus/master.m3u8
 #EXTINF:-1 group-title="German_Radio",WDR_Event_De
 https://wdrhf.akamaized.net/hls/live/2028169/wdrevent/master.m3u8
+#EXTINF:-1 group-title="German_Radio",ARD_Schlagerwelt
+https://br-radio.ard-mcdn.de/br/radio/brschlager/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",ARD_tagesschau
+https://ndr-audio.akamaized.net/hls/live/2110937/TS24/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR1
+https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR2
+https://br-radio.ard-mcdn.de/br/radio/b2/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR3
+https://br-radio.ard-mcdn.de/br/radio/b3/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR_Heimat
+https://br-radio.ard-mcdn.de/br/radio/brheimat/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR_Klassik
+https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",BR_BR24
+https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",DASDING_vom_hr
+https://hr-radio.ard-mcdn.de/hr/radio/dasding/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",hr_info
+https://hr-radio.ard-mcdn.de/hr/radio/hrinfo/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",hr1
+https://hr-radio.ard-mcdn.de/hr/radio/hr1rm/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",hr2_kultur
+https://hr-radio.ard-mcdn.de/hr/radio/hr2/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",hr3
+https://hr-radio.ard-mcdn.de/hr/radio/hr3rm/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",hr4
+https://hr-radio.ard-mcdn.de/hr/radio/hr4rm/hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_AKTUELL
+https://mdr-radio-hls.akamaized.net/hls/live/2112901/mdr-284340-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_JUMP
+https://mdr-radio-hls.akamaized.net/hls/live/2112904/mdr-284320-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_KLASSIK
+https://mdr-radio-hls.akamaized.net/hls/live/2112906/mdr-284350-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_KULTUR
+https://mdr-radio-hls.akamaized.net/hls/live/2112903/mdr-284310-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_SACHSEN
+https://mdr-radio-hls.akamaized.net/hls/live/2112887/mdr-284280-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_SACHSEN_ANHALT
+https://mdr-radio-hls.akamaized.net/hls/live/2112893/mdr-284290-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_SPUTNIK
+https://mdr-radio-hls.akamaized.net/hls/live/2112905/mdr-284330-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_THÜRINGEN
+https://mdr-radio-hls.akamaized.net/hls/live/2112898/mdr-284300-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",mdr_TWEENS
+https://mdr-radio-hls.akamaized.net/hls/live/2112913/mdr-991101-0-hls/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR_JOY
+https://ndr-audio.akamaized.net/hls/live/2110934/NJOY/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR1_Niedersachsen
+https://ndr-audio.akamaized.net/hls/live/2110916/NDR1NDSH/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR1_Radio_MV
+https://ndr-audio.akamaized.net/hls/live/2110922/NDR1MVSN/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR1_Welle_Nord
+https://ndr-audio.akamaized.net/hls/live/2110911/NDR1WNOKI/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR2
+https://ndr-audio.akamaized.net/hls/live/2110930/NDR2NDS/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR_90,3
+https://ndr-audio.akamaized.net/hls/live/2110910/NDR903/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR_Blue
+https://ndr-audio.akamaized.net/hls/live/2110936/NDRBLUE/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR_Info
+https://ndr-audio.akamaized.net/hls/live/2110933/NDRINFO/192/seglist.m3u8
+#EXTINF:-1 group-title="German_Radio",NDR_Kultur
+https://ndr-audio.akamaized.net/hls/live/2110932/NDRKULTUR/192/seglist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="En_Radio",AlJazeera_En_Radio
 https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF:-1 group-title="En_Radio",BBC_World_Service
