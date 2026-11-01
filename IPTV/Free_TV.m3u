@@ -22,10 +22,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-id="lana",Lana
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1 tvg-id="halab.today",Halab_Today
-https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="prime.sy",Prime_Sy
-https://mn-nl.mncdn.com/primetv/live/index.m3u8
+#EXTINF:-1 tvg-id="prime.sy",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8?aws.manifestfilter=video_height%3A1080
 #EXTINF:-1 tvg-id="alsouriya",AlSouriya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="maraya",Maraya
@@ -56,7 +54,7 @@ https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aapro
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="ifilm.ar",iFilm_Ar
-https://live.presstv.ir/hls/ifilmar.m3u8
+https://live.presstv.co.uk/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="aflam",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
 #EXTINF:-1 tvg-id="movies.thriller",Movies_Thriller
