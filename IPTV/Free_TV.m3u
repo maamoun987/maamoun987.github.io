@@ -28,7 +28,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="maraya",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
-#EXTINF:-1 tvg-id="alikhbariasyria.sy",AlikhbariaSyria.sy
+#EXTINF:-1 tvg-id="alikhbariasyria",AlikhbariaSyria
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="prime.sy",prime.sy
 https://cdn.bestream.io/prime/prime.m3u8
