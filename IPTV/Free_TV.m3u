@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1.aljazeera.1",1_Aljazeera_1
+#EXTINF:-1 tvg-id="1.aljazeera.1",1_Aljazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-id="1.aljazeera.2",1_Aljazeera_2
+#EXTINF:-1 tvg-id="1.aljazeera.2",1_Aljazeera_now
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
 #EXTINF:-1 tvg-id="1.aljazeera.mubasher",1_Aljazeera_Mubasher
 https://live-hls-web-ajm-bp.thehlive.com/AJM/01.m3u8
@@ -22,7 +22,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-id="lana",Lana
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1 tvg-id="prime.sy",SBC
+#EXTINF:-1 tvg-id="SBC",SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8?aws.manifestfilter=video_height%3A1080
 #EXTINF:-1 tvg-id="alsouriya",AlSouriya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
@@ -30,6 +30,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
 #EXTINF:-1 tvg-id="alikhbariasyria.sy",AlikhbariaSyria.sy
 http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-id="prime.sy",prime.sy
+https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1 tvg-id="almashhad",Almashhad
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="skynews.ar",SkyNews_AR
@@ -212,6 +214,51 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u
 
 #EXTINF:-1 tvg-id="dubai",Dubai
 http://185.9.2.18/chid_139/index.m3u8
+
+#EXTINF:-1  tvg-id="Abudhabi",Abudhabi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="Emarat",Emarat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb79f982984ece91932030a4bb7faaa:e2e50fafa92382e735bc0e8aa1f67b20
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
+  
+#EXTINF:-1 tvg-id="AD_National_geo",AD_National_geo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="Baynounah",Baynounah 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="Majid",Majid 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/majid/majid_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="YAS",YAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b417ef441805842ea16892ff3841d197:b88423638d8d13c030f8a7868a045838
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
+
+#EXTINF:-1  tvg-id="Abudhabi_sports_1",Abudhabi_sports_1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
+#EXTINF:-1  tvg-id="Abudhabi_sports_2",Abudhabi_sports_2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="Abudhabi_sports_fight",Abudhabi_sports_fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a964c9330ee151a225adc46619f3afb0:f1bc2513d4b5019bdf5b0ddc03af954c
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
 
 
 #EXTINF:-1 tvg-id="oman",Oman
