@@ -271,9 +271,9 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68
 #KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 
-#EXTINF:-1 tvg-id="MBC_Action",MBC_Action
+#EXTINF:-1 tvg-id="MBC_Action00",MBC_Action00
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
+#KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 #EXTINF:-1 tvg-id="MBC_Shahid-Sports-1",MBC_Shahid-Sports-1
