@@ -263,9 +263,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_da
 #EXTINF:-1 tvg-id="MBC_2",MBC_2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
-
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
 
 #EXTINF:-1 tvg-id="oman",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
