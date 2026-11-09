@@ -260,6 +260,12 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #KODIPROP:inputstream.adaptive.license_key=a964c9330ee151a225adc46619f3afb0:f1bc2513d4b5019bdf5b0ddc03af954c
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
 
+#EXTINF:-1 tvg-id="MBC_2",MBC_2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
+
+
 
 #EXTINF:-1 tvg-id="oman",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
@@ -278,10 +284,25 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/li
 
 #EXTINF:-1 tvg-id="aljazeera.docu",Aljazeera_Docu
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
-#EXTINF:-1 tvg-id="nat.geo.ad",Nat_Geo_AD
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="nat.geo.ad.720",Nat_Geo_AD_720
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kuwait_1",Kuwait_1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Kuwait_2",Kuwait_2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8 
+#EXTINF:-1 tvg-id="Kuwait_Ethraa",Kuwait_Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Kuwait_Qurain",Kuwait_Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Kuwait_Al-Arabi",Kuwait_Al-Arabi
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Kuwait_Sport_1",Kuwait_Sport_1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Kuwait_Sport_2",Kuwait_Sport_2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ard.1",ARD_1
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
