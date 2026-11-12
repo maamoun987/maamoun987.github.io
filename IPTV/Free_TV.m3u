@@ -142,9 +142,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-id="mbc.1.usa",MBC_1_USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-
 #EXTINF:-1 tvg-id="mbc.2",MBC_2
 http://185.9.2.18/chid_375/mono.m3u8
+#EXTINF:-1 tvg-id="MBC_2_FHD",MBC_2_FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a8592dff8a4965983fd7f8ee7006dc:0954d76121a0c33c6e3f52175aca6c05
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+#EXTINF:-1 tvg-id="MBC_MAX",MBC_MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+#EXTINF:-1 tvg-id="MBC_Action00",MBC_Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 #EXTINF:-1 tvg-id="mbc.drama",MBC_Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 tvg-id="mbc.drama.usa",MBC_Drama_USA
@@ -187,10 +198,6 @@ https://fast.kwikmotion.com/roya/fantahi/playlist/kmfast_1.m3u8
 https://fast.kwikmotion.com/roya/roya-production/playlist/kmfast_1.m3u8
 #EXTINF:-1 tvg-id="roya.kitchen",Roya_Dok
 https://fast.kwikmotion.com/roya/documentaries/playlist/kmfast_1.m3u8
-
-#EXTINF:-1 tvg-id="roya.aymanzaydan",Roya_AymanZaydan
-https://fast.kwikmotion.com/roya/ayman-zaydan/playlist/kmfast_1.m3u8
-
 #EXTINF:-1 tvg-id="amman.tv1.720",Amman_Tv1_720
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 tvg-id="amman.tv2.720",Amman_Tv2_720
@@ -214,6 +221,11 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u
 
 #EXTINF:-1 tvg-id="dubai",Dubai
 http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 tvg-name="Test Stream 1" group-title="General",Test Stream 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
+https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
+
 
 #EXTINF:-1  tvg-id="Abudhabi",Abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -224,7 +236,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb79f982984ece91932030a4bb7faaa:e2e50fafa92382e735bc0e8aa1f67b20
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
-  
+
+
 #EXTINF:-1 tvg-id="AD_National_geo",AD_National_geo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
@@ -260,22 +273,15 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #KODIPROP:inputstream.adaptive.license_key=a964c9330ee151a225adc46619f3afb0:f1bc2513d4b5019bdf5b0ddc03af954c
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
 
-#EXTINF:-1 tvg-id="MBC_2",MBC_2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a8592dff8a4965983fd7f8ee7006dc:0954d76121a0c33c6e3f52175aca6c05
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 tvg-id="Asharq_Thaqafiya",Asharq_Thaqafiya
+https://live-thaqafeyah.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-id="Asharq_Discovery",Asharq_Discovery
+https://live-discovery.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-id="Asharq_Documentary",Asharq_Documentary
+https://live-documentary.asharq.com/asharq.m3u8
 
 
-#EXTINF:-1 tvg-id="MBC_MAX",MBC_MAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
-
-
-#EXTINF:-1 tvg-id="MBC_Action00",MBC_Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73d6c44e70d24e09a1c4735bb6e2f696:22f2237a1722bf4d4623346a3ea08b7c
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 #EXTINF:-1 tvg-id="MBC_Shahid-Sports-1",MBC_Shahid-Sports-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
