@@ -226,6 +226,9 @@ http://185.9.2.18/chid_139/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
 https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
 
+#EXTINF:-1 tvg-id="dubai-web",Dubai TV Web
+https://www.elahmad.ru/tv/live/shahid_shaka.php?id=dubaitv
+
 
 #EXTINF:-1  tvg-id="Abudhabi",Abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
