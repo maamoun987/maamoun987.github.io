@@ -219,7 +219,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 #EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u
 
-#EXTINF:-1 tvg-id="dubai",Dubai
+#EXTINF:-1 tvg-id="dubai",Dubai0
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 tvg-name="Test Stream 1" group-title="General",Test Stream 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -352,6 +352,8 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="oman",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="oman.cultural",Oman_Cultural
