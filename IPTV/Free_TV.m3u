@@ -229,10 +229,29 @@ https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
 #EXTINF:-1 tvg-id="dubai-web",Dubai TV Web
 https://www.elahmad.ru/tv/live/shahid_shaka.php?id=dubaitv
 
-#EXTINF:-1 tvg-id="ssss",ssss
+#EXTINF:-1 tvg-id="d1",d1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.ipslow.com/tv/widevine/shahid_6.php
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
+https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
+
+
+#EXTINF:-1 tvg-id="d2",d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBT_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="d3",d3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
+
+
+#EXTINF:-1 tvg-id="d4",d4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.entitlement.theplatform.eu/wv/web/ModularDrm/getRawWidevineLicense
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
+
 
 #EXTINF:-1 tvg-id="ssss2",ssss2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
