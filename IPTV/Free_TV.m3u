@@ -229,6 +229,17 @@ https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
 #EXTINF:-1 tvg-id="dubai-web",Dubai TV Web
 https://www.elahmad.ru/tv/live/shahid_shaka.php?id=dubaitv
 
+#EXTINF:-1 tvg-id="ssss",ssss
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.ipslow.com/tv/widevine/shahid_6.php
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+
+#EXTINF:-1 tvg-id="ssss2",ssss2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.ipslow.com/tv/widevine/shahid_6.php
+https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
+
+
 
 #EXTINF:-1  tvg-id="Abudhabi",Abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
