@@ -270,9 +270,6 @@ https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
 https://storage.googleapis.com/shaka-demo-assets/sintel-widevine/dash.mpd
 
 
-#EXTINF:-1 tvg-id="dash-clear-test" group-title="DRM TEST",Google DASH No DRM
-https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
-
 
 #EXTINF:-1  tvg-id="Abudhabi",Abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -351,11 +348,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBT_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
 
-#EXTINF:-1 tvg-id="Dubai3",Dubai3
+#EXTINF:-1 tvg-id="bbbeein",bbbeein
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 tvg-id="oman",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="oman.cultural",Oman_Cultural
