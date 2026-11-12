@@ -240,6 +240,20 @@ https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654
 https://dmi-live-a.akamaized.net/Content/Channel/dubai/DASH/master.mpd
 
 
+#EXTINF:-1 tvg-id="widevine-test-1" group-title="DRM TEST",Google Widevine Test
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+
+#EXTINF:-1 tvg-id="widevine-test-2" group-title="DRM TEST",Shaka Sintel Widevine
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/no_auth
+https://storage.googleapis.com/shaka-demo-assets/sintel-widevine/dash.mpd
+
+
+#EXTINF:-1 tvg-id="dash-clear-test" group-title="DRM TEST",Google DASH No DRM
+https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
+
 
 #EXTINF:-1  tvg-id="Abudhabi",Abudhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
